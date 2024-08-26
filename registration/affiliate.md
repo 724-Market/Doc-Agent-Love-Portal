@@ -62,9 +62,16 @@ description: '# การสมัครสมาชิก Affiliate'
 - กดปุ่ม “ชำระค่าแพ็กเกจ” ระบบจะแสดงหน้าจอขั้นต่อไปของการทำรายการ
 
 <figure>
-    <img src="https://drive.google.com/uc?export=view&id=1x4GsWr0VjbdT1qGqXU_aSm1fedK5D8s0" alt="" style="width: 70%; max-width: 
+    <img src="https://drive.google.com/uc?export=view&id=1x4GsWr0VjbdT1qGqXU_aSm1fedK5D8s0" alt="" style="width: 70%; max-width: 300px;">
+    <figcaption></figcaption>
+</figure>
 
 ระบบแสดงหน้าจอให้ชำระเงินด้วย QR Code ผู้สมัครสามารถบันทึกข้อมูล QR Code เพื่อไปเปิดในแอปพลิเคชันของธนาคารได้ในกรณีที่ใช้สมาร์ทโฟนในการสมัคร หากผู้ใช้งานใช้อุปกรณ์อื่น ๆ ก็สามารถนำสมาร์ทโฟนที่มีแอปพลิเคชันของธนาคารแสกนที่หน้าจอได้ทันที
+
+<figure>
+    <img src="https://drive.google.com/uc?export=view&id=1x4GsWr0VjbdT1qGqXU_aSm1fedK5D8s0" alt="" style="width: 70%; max-width: 300px;">
+    <figcaption></figcaption>
+</figure>
 
 หลังจากที่การชำระเงินเสร็จสมบูรณ์แล้ว ระบบจะแสดงหน้าจอที่ยืนยันการชำระเงินเรียบร้อย ในขั้นตอนถัดไป เจ้าหน้าที่จะทำการ
 ตรวจสอบข้อมูลทั้งหมดและจะแจ้งผลการอนุมัติให้ผู้ใช้งานทราบภายในเวลาไม่เกิน 2 วันทำการหลังจากการตรวจสอบเสร็จสิ้น
@@ -73,4 +80,3 @@ description: '# การสมัครสมาชิก Affiliate'
     <img src="https://drive.google.com/uc?export=view&id=1yru8IWH1jd8kP6yrk5-Z05mmhuMh8Bd3" alt="" style="width: 70%; max-width: 300px;">
     <figcaption></figcaption>
 </figure>
-
