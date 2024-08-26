@@ -1,9 +1,8 @@
 # Table of contents
 
 * [Welcome](README.md)
-* [ขั้นตอนการสมัคร](undefined/README.md)
-  * [ภาพรวมการสมัครสมาชิก](undefined/overview.md)
-  * [สมัครสมาชิก Affiliate](undefined/affiliate.md)
+* [ภาพรวมการสมัครสมาชิก](overview.md)
+* [สมัครสมาชิก Affiliate](affiliate.md)
 
 ## Getting Started
 
@@ -18,7 +17,3 @@
 * [Interactive blocks](basics/interactive-blocks.md)
 * [OpenAPI](basics/openapi.md)
 * [Integrations](basics/integrations.md)
-
-***
-
-* [สมัคร Affiliate](affiliate.md)
