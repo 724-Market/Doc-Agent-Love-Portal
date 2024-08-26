@@ -1,9 +1,9 @@
 # Table of contents
 
 * [Welcome](README.md)
-* [Page](page/README.md)
-  * [ภาพรวมการสมัครสมาชิก](page/overview.md)
-  * [สมัครสมาชิก Affiliate](page/affiliate.md)
+* [ขั้นตอนการสมัคร](undefined/README.md)
+  * [ภาพรวมการสมัครสมาชิก](undefined/overview.md)
+  * [สมัครสมาชิก Affiliate](undefined/affiliate.md)
 
 ## Getting Started
 
