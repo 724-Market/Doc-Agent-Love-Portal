@@ -2,6 +2,10 @@
 
 * [ยินดีต้อนรับ](README.md)
 
+## เตรียมตัวก่อนสมัคร <a href="#prerequisites" id="prerequisites"></a>
+
+* [สิ่งที่ต้องเตรียม](prerequisites/undefined.md)
+
 ## ขั้นตอนการสมัคร <a href="#registration" id="registration"></a>
 
 * [ภาพรวมการสมัครสมาชิก](registration/overview.md)
@@ -21,6 +25,3 @@
 * [OpenAPI](basics/openapi.md)
 * [Integrations](basics/integrations.md)
 
-## เตรียมตัวก่อนสมัคร <a href="#prerequisites" id="prerequisites"></a>
-
-* [สิ่งที่ต้องเตรียม](prerequisites/undefined.md)
