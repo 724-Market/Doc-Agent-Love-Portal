@@ -32,7 +32,7 @@
 ### ลงทะเบียนสมาชิกใหม่
 
 <figure>
-    <img src="https://drive.google.com/uc?export=view&id=1-l80dCajWuI3z78ulHLtRSAnIc56dIpB" alt="" style="width: 70%; max-width: 300px;">
+    <img src="https://drive.google.com/uc?export=view&id=1WIRMIUu0RYdZXfKDVco79i6yGD2T_lnl" alt="" style="width: 70%; max-width: 300px;">
     <figcaption></figcaption>
 </figure>
 
