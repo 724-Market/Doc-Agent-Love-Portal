@@ -1,6 +1,7 @@
 # Table of contents
 
-* [Welcome](README.md)
+* [Page](README.md)
+* [Welcome](<README (1).md>)
 * [ภาพรวมการสมัครสมาชิก](overview.md)
 * [สมัครสมาชิก Affiliate](affiliate.md)
 
