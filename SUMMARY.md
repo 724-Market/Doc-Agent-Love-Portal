@@ -1,7 +1,7 @@
 # Table of contents
 
 * [Welcome](README.md)
-* [ภาพรวม](registration/overview.md)
+* [ภาพรวมการสมัครสมาชิก](registration/overview.md)
 
 ## Getting Started
 
