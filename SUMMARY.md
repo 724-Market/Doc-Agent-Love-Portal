@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Welcome](README.md)
+* [ยินดีต้อนรับ](README.md)
 
 ## ขั้นตอนการสมัคร <a href="#registration" id="registration"></a>
 
@@ -21,4 +21,6 @@
 * [OpenAPI](basics/openapi.md)
 * [Integrations](basics/integrations.md)
 
+## เตรียมตัวก่อนสมัคร <a href="#prerequisites" id="prerequisites"></a>
 
+* [สิ่งที่ต้องเตรียม](prerequisites/undefined.md)
