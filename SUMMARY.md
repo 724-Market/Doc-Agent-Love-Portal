@@ -16,7 +16,7 @@
 * [OpenAPI](basics/openapi.md)
 * [Integrations](basics/integrations.md)
 
-## ขั้นตอนการสมัคร <a href="#registered" id="registered"></a>
+## ขั้นตอนการสมัคร <a href="#registration" id="registration"></a>
 
-* [ภาพรวมการสมัครสมาชิก](registered/overview.md)
-* [สมัครสมาชิก Affiliate](registered/affiliate.md)
+* [ภาพรวมการสมัครสมาชิก](registration/overview.md)
+* [สมัครสมาชิก Affiliate](registration/affiliate.md)
