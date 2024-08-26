@@ -6,3 +6,12 @@
 
 ระบบจะแสดงหน้าจอการใช้งานเข้าสู่ระบบ สำหรับผู้ใช้งานที่ยังไม่เคยลงทะเบียนเป็นสมาชิกของระบบ 724 Agent มาก่อน สามารถลงทะเบียนได้โดยกดที่ "ลงทะเบียนเพื่อเปิดใช้งานที่นี่"
 
+<figure>
+    <img src="https://drive.google.com/uc?export=view&id=1TWcqRkLq195NCnEZ1jU3UTT1q0PBQ-wC" alt="" style="width: 70%; max-width: 300px;">
+    <figcaption></figcaption>
+</figure>
+
+<figure>
+    <img src="https://drive.google.com/uc?export=view&id=1TWcqRkLq195NCnEZ1jU3UTT1q0PBQ-wC" alt="" style="width: 70%; max-width: 300px;">
+    <figcaption></figcaption>
+</figure>
