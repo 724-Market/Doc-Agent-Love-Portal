@@ -69,9 +69,7 @@
 - กรอกรหัส OTP 6 หลัก
 - กดปุ่ม "ยืนยันรหัส OTP" เพื่อเข้าสู่ขั้นตอนการกำหนดรหัสผ่าน
 
-{% hint style="info" %}
 หากไม่ได้รับรหัส OTP หลังจาก 5 นาทีผ่านไป ผู้ใช้งานสามารถกดที่ข้อความ "ส่งรหัส OTP อีกครั้ง" เพื่อขอรับรหัสใหม่ โดยระบบจะทำการส่งรหัสให้ใหม่อีกครั้ง
-{% endhint %}
 
 <figure>
     <img src="https://drive.google.com/uc?export=view&id=1fRC8Zsmz7FGguaNl6wA9qFqrn2iJEuAO" alt="" style="width: 70%; max-width: 300px;">
