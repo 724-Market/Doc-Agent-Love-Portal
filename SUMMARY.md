@@ -2,6 +2,11 @@
 
 * [Welcome](README.md)
 
+## ขั้นตอนการสมัคร <a href="#registration" id="registration"></a>
+
+* [ภาพรวมการสมัครสมาชิก](registration/overview.md)
+* [สมัครสมาชิก Affiliate](registration/affiliate.md)
+
 ## Getting Started
 
 * [Quickstart](getting-started/quickstart.md)
@@ -16,7 +21,4 @@
 * [OpenAPI](basics/openapi.md)
 * [Integrations](basics/integrations.md)
 
-## ขั้นตอนการสมัคร <a href="#registration" id="registration"></a>
 
-* [ภาพรวมการสมัครสมาชิก](registration/overview.md)
-* [สมัครสมาชิก Affiliate](registration/affiliate.md)
