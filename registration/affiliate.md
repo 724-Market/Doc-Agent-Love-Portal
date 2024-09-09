@@ -51,7 +51,7 @@ description: '# การสมัครสมาชิก Affiliate'
 
 * กดปุ่ม “เลือกแพ็กเกจนี้” ระบบจะแสดงหน้าจอขั้นต่อไปของการทำรายการ
 
-### เพิ่มความคุ้มครอง ต่ออายุสมาชิกศรีกรุงฟรี
+### เพิ่มความคุ้มครอง ต่ออายุสมาชิกศรีกรุง
 
 <figure>
     <img src="https://drive.google.com/uc?export=view&id=1XwbLR1ciq_eS0mvARvn3HS-LwTFESRnF" alt="" style="width: 70%; max-width: 300px;">
@@ -62,15 +62,20 @@ description: '# การสมัครสมาชิก Affiliate'
 โดยระบบจะแสดงหน้าต่างเปลี่ยนความคุ้มครอง สามารถทำรายการได้ ดังนี้
 
 - กดปุ่ม "เปลี่ยนความคุ้มครอง": ระบบจะแสดงหน้าต่างให้เลือกเพิ่มความคุ้มครอง
-  
-- เลือกแผนที่ต้องการเปลี่ยน: ระบบจะแสดงราคาของการเพิ่มความคุ้มครอง
+
+<figure>
+    <img src="https://drive.google.com/uc?export=view&id=1neryC_0CHrr35VpJ5djNc75VoOXSjQlU" alt="" style="width: 70%; max-width: 300px;">
+    <figcaption></figcaption>
+</figure>
+ 
+- กดปุ่ม "เลือกแผนนี้": ระบบจะแสดงราคาที่ต้องชำระเพิ่มเติมของการเพิ่มความคุ้มครองที่เลือก
   
 - รายการและจำนวนยอดเงินของต้องชำระของแพ็กเกจ
 
 ### ชำระค่าแพ็กเกจ
 
 <figure>
-    <img src="https://drive.google.com/uc?export=view&#x26;id=1UlPvZGgGKjkuj-SH0WLyhRBSiNzHc0TM" alt="" style="width: 70%; max-width: 300px;">
+    <img src="https://drive.google.com/uc?export=view&id=1QstmI1P5pmloN2l3dDfKtYccY5ZYfpd0" alt="" style="width: 70%; max-width: 300px;">
     <figcaption></figcaption>
 </figure>
 
