@@ -51,7 +51,7 @@ description: '# การสมัครสมาชิก Affiliate'
 
 * กดปุ่ม “เลือกแพ็กเกจนี้” ระบบจะแสดงหน้าจอขั้นต่อไปของการทำรายการ
 
-### เพิ่มความคุ้มครอง ต่ออายุสมาชิกศรีกรุง
+### เพิ่มความคุ้มครอง (ต่ออายุสมาชิกศรีกรุง)
 
 <figure>
     <img src="https://drive.google.com/uc?export=view&id=1XwbLR1ciq_eS0mvARvn3HS-LwTFESRnF" alt="" style="width: 70%; max-width: 300px;">
