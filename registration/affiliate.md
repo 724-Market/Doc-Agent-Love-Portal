@@ -96,7 +96,7 @@ description: '# การสมัครสมาชิก Affiliate'
 {% endhint %}
 
 <figure>
-    <img src="https://drive.google.com/uc?export=view&id=1-WY2Fw-FLSs-ZpTbRayc30u0flZs4hLu" alt="" style="width: 70%; max-width: 300px;">
+    <img src="https://drive.google.com/uc?export=view&id=1FwFjBKkdBmFe1CHH-sRB_TEm79RB4UBe" alt="" style="width: 70%; max-width: 300px;">
     <figcaption></figcaption>
 </figure>
 
