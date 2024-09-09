@@ -70,12 +70,15 @@ description: '# การสมัครสมาชิก Affiliate'
  
 - กดปุ่ม "เลือกแผนนี้": ระบบจะแสดงราคาที่ต้องชำระเพิ่มเติมของการเพิ่มความคุ้มครองที่เลือก
   
-- รายการและจำนวนยอดเงินของต้องชำระของแพ็กเกจ
+<figure>
+    <img src="https://drive.google.com/uc?export=view&id=10a04EUIIR-q39-F74uA6JXdI37fqfFp2" alt="" style="width: 70%; max-width: 300px;">
+    <figcaption></figcaption>
+</figure>
 
 ### ชำระค่าแพ็กเกจ
 
 <figure>
-    <img src="https://drive.google.com/uc?export=view&id=1QstmI1P5pmloN2l3dDfKtYccY5ZYfpd0" alt="" style="width: 70%; max-width: 300px;">
+    <img src="https://drive.google.com/uc?export=view&id=1AgoTnWNv8dT2IKFw9JtZeyNW4Y-JKBUA" alt="" style="width: 70%; max-width: 300px;">
     <figcaption></figcaption>
 </figure>
 
