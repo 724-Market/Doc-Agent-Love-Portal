@@ -22,7 +22,7 @@ description: '# การสมัครสมาชิก Affiliate'
 ### เลือกแพ็กเกจ
 
 <figure>
-    <img src="https://drive.google.com/uc?export=view&#x26;id=1Y-rkRDkAv8RmNKj3FI4M255fzd2KTfbl" alt="" style="width: 70%; max-width: 300px;">
+    <img src="https://drive.google.com/uc?export=view&id=1XwbLR1ciq_eS0mvARvn3HS-LwTFESRnF" alt="" style="width: 70%; max-width: 300px;">
     <figcaption></figcaption>
 </figure>
 
