@@ -83,6 +83,13 @@ description: '# การสมัครสมาชิก Affiliate'
 
 ### สมัครแพ็กเกจสำเร็จ
 
-หลังจากที่การชำระเงินเสร็จสมบูรณ์แล้ว ระบบจะแสดงหน้าจอที่ยืนยันการชำระเงินเรียบร้อย ผู้ใช้งานสามารถตรวจสอบข้อมูลการใช้งานแพ็คเกจได้ที่หน้าหลักของระบบ
+หลังจากที่การชำระเงินเสร็จสมบูรณ์แล้ว ระบบจะแสดงหน้าจอที่ยืนยันการชำระเงินเรียบร้อย
 
 <figure><img src="https://drive.google.com/uc?export=view&#x26;id=1yru8IWH1jd8kP6yrk5-Z05mmhuMh8Bd3" alt=""><figcaption></figcaption></figure>
+
+ผู้ใช้งานสามารถตรวจสอบข้อมูลการใช้งานแพ็คเกจได้ที่หน้าหลักของระบบ
+
+<figure>
+    <img src="https://drive.google.com/uc?export=view&id=1HrK9uzgvuYNAuFhuPyBAucaVK0d1KFz2" alt="" style="width: 70%; max-width: 300px;">
+    <figcaption></figcaption>
+</figure>
