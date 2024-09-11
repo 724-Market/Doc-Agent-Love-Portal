@@ -72,7 +72,10 @@ description: '# การสมัครสมาชิก Affiliate'
 หากผู้ใช้งานมีเงินคงค้าง ระบบจะหักค่าสมาชิก Affiliate จากยอดเงินคงค้างดังกล่าว และผู้ใช้งานต้องชำระเงินที่เหลือจากยอดเงินคงค้าง ในกรณีที่ยอดเงินคงค้างมากกว่าค่าแพ็กเกจ ระบบจะคืนยอดเงินคงค้างส่วนที่เหลือให้ตามขั้นตอนของการดำเนินการปกติ
 {% endhint %}
 
-<figure><img src="https://drive.google.com/uc?export=view&#x26;id=1FwFjBKkdBmFe1CHH-sRB_TEm79RB4UBe" alt=""><figcaption></figcaption></figure>
+<figure>
+    <img src="https://drive.google.com/uc?export=view&id=1ppxVIqa5WJMxxqnYCj4LOKATU74UDopg" alt="" style="width: 70%; max-width: 300px;">
+    <figcaption></figcaption>
+</figure>
 
 ผู้ใช้งานสามารถทำรายการได้ตามขั้นตอน ดังนี้:
 
