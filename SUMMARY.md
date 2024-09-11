@@ -1,6 +1,6 @@
 # Table of contents
 
-* [ยินดีต้อนรับ](README.md)
+* [👏 724 Agent ยินดีต้อนรับ](README.md)
 
 ## เตรียมตัวก่อนสมัคร <a href="#prerequisites" id="prerequisites"></a>
 
@@ -24,4 +24,3 @@
 * [Interactive blocks](basics/interactive-blocks.md)
 * [OpenAPI](basics/openapi.md)
 * [Integrations](basics/integrations.md)
-
