@@ -18,7 +18,11 @@ description: '# การสมัครสมาชิก Affiliate'
 
 ### เลือกแพ็กเกจ
 
-<figure><img src="https://drive.google.com/uc?export=view&#x26;id=1XwbLR1ciq_eS0mvARvn3HS-LwTFESRnF" alt=""><figcaption></figcaption></figure>
+<figure>
+    <img src="https://drive.google.com/uc?export=view&id=1mtmbicDvItHQ5briYV71fW8jkc83DJOv" alt="" style="width: 70%; max-width: 300px;">
+    <figcaption></figcaption>
+</figure>
+
 
 หลังจากเข้าสู่ระบบ ผู้ใช้งานจะเห็นหน้าหลักซึ่งจะแสดงแพ็กเกจ Affiliate ที่มีให้เลือก ระบบจะแสดงรายละเอียดของแพ็กเกจที่ผู้ใช้งานมีสิทธิ์ได้รับ โดยระบบจะตรวจสอบระดับสมาชิกของผู้ใช้งานเพื่อตรวจสอบว่าผู้ใช้งานสามารถเลือกแพ็กเกจใดได้บ้าง โดยพื้นฐาน **ผู้ใช้งานที่มีระดับ 5 ขึ้นไปจะมีสิทธิประโยชน์ที่ได้รับ** ดังนี้
 
