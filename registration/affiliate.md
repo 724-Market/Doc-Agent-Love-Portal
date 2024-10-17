@@ -91,7 +91,10 @@ description: '# การสมัครสมาชิก Affiliate'
 
 ### ชำระค่าแพ็กเกจ
 
-<figure><img src="https://drive.google.com/uc?export=view&#x26;id=1AgoTnWNv8dT2IKFw9JtZeyNW4Y-JKBUA" alt=""><figcaption></figcaption></figure>
+<figure>
+    <img src="https://drive.google.com/uc?export=view&id=1z7Ec2hTs93TcQReFH-OLdKDM2KlhPAKV" alt="" style="width: 70%; max-width: 300px;">
+    <figcaption></figcaption>
+</figure>
 
 หน้าจอระบบแสดงรายละเอียดของการชำระเงินค่าสมัครแพ็กเกจ Affiliate โดยมีรายละเอียด ดังนี้
 
