@@ -25,7 +25,7 @@ description: '# การสมัครสมาชิก Affiliate'
 หลังจากเข้าสู่ระบบ ผู้ใช้งานจะเห็นหน้าหลักที่แสดงแพ็กเกจ Affiliate โดยระบบจะตรวจสอบระดับสมาชิกของผู้ใช้งานว่าสามารถเลือกแพ็กเกจใดได้บ้าง 
 
 <figure>
-    <img src="https://drive.google.com/uc?export=view&id=10-dpgSI2Ag7X3yj-RyDL_abyB0FquuKW" alt="" style="width: 70%; max-width: 300px;">
+    <img src="https://drive.google.com/uc?export=view&id=1kyR-llbsjHLyYlm1fb90S5fMxxD8GQA-" alt="" style="width: 70%; max-width: 300px;">
     <figcaption></figcaption>
 </figure>
 
@@ -80,8 +80,8 @@ description: '# การสมัครสมาชิก Affiliate'
     <figcaption></figcaption>
 </figure>
 
-หลังจากนั้น ระบบจะแสดงหน้าชำระเงินพร้อมกับราคาที่ต้องจ่ายเพิ่มเติมสำหรับการเพิ่มความคุ้มครองที่เลือก สำหรับผู้ใช้งานที่ยังเป็นสมาชิกศรีกรุงและมีอายุสมาชิกเหลือเกิน 90 วัน
-นับจากวันที่ทำรายการ ผู้ใช้งานสามารถคลิกเลือกให้เจ้าหน้าที่โทรตามส่วนต่างค่าเบี้ย PA เพิ่มก่อนวันหมดอายุได้
+หลังจากนั้น ระบบจะแสดงหน้าชำระเงินพร้อมรายละเอียดทั้งหมดที่ต้องชำระ สำหรับผู้ใช้งานที่มีอายุสมาชิกศรีกรุงเหลือมากกว่า 90 วัน
+นับจากวันที่ทำรายการ สามารถคลิกเลือกให้เจ้าหน้าที่โทรตามส่วนต่างค่าเบี้ย PA เพิ่มก่อนวันหมดอายุได้ 
 
 <figure>
     <img src="https://drive.google.com/uc?export=view&id=1QpsN5Iv1sDkYiWb6RRvuC1QEXmGToMx8" alt="" style="width: 70%; max-width: 300px;">
