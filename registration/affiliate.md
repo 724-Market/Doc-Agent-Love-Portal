@@ -6,9 +6,13 @@ description: '# การสมัครสมาชิก Affiliate'
 
 ### เริ่มต้นการสมัคร
 
-การสมัครสมาชิก Affiliate ของ 724 Agent สามารถทำได้หลังจากที่ผู้ใช้งานสมัครสมาชิกระบบ724 Agent เรียบร้อยแล้ว โดยสามารถเข้าสู่ระบบ โดยการลงชื่อเข้าใช้งานที่ URL [https://ag.724.co.th/agent](https://ag.724.co.th/agent)
+การสมัครสมาชิก Affiliate ของระบบ 724 Agent สามารถทำได้หลังจากที่ผู้ใช้งานได้สมัครสมาชิกกับระบบ 724 Agent เรียบร้อยแล้ว 
+โดยสามารถเข้าสู่ระบบได้ที่ [https://ag.724.co.th/agent](https://ag.724.co.th/agent)
 
-<figure><img src="https://drive.google.com/uc?export=view&#x26;id=1lYgRiGzppFXHqCuXPr1qtoiOX3PXmC8T" alt=""><figcaption></figcaption></figure>
+<figure>
+    <img src="https://drive.google.com/uc?export=view&id=1lYgRiGzppFXHqCuXPr1qtoiOX3PXmC8T" alt="" style="width: 70%; max-width: 300px;">
+    <figcaption></figcaption>
+</figure>
 
 สำหรับผู้ใช้งานที่เป็นสมาชิก สามารถลงชื่อเข้าใช้งานระบบตาม ขั้นตอน ดังนี้:
 
@@ -22,7 +26,6 @@ description: '# การสมัครสมาชิก Affiliate'
     <img src="https://drive.google.com/uc?export=view&id=1mtmbicDvItHQ5briYV71fW8jkc83DJOv" alt="" style="width: 70%; max-width: 300px;">
     <figcaption></figcaption>
 </figure>
-
 
 หลังจากเข้าสู่ระบบ ผู้ใช้งานจะเห็นหน้าหลักซึ่งจะแสดงแพ็กเกจ Affiliate ที่มีให้เลือก ระบบจะแสดงรายละเอียดของแพ็กเกจที่ผู้ใช้งานมีสิทธิ์ได้รับ โดยระบบจะตรวจสอบระดับสมาชิกของผู้ใช้งานเพื่อตรวจสอบว่าผู้ใช้งานสามารถเลือกแพ็กเกจใดได้บ้าง โดยพื้นฐาน **ผู้ใช้งานที่มีระดับ 5 ขึ้นไปจะมีสิทธิประโยชน์ที่ได้รับ** ดังนี้
 
