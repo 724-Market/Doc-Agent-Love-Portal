@@ -10,7 +10,7 @@ description: '# การสมัครสมาชิก Affiliate'
 โดยสามารถเข้าสู่ระบบได้ที่ [https://ag.724.co.th/agent](https://ag.724.co.th/agent)
 
 <figure>
-    <img src="https://drive.google.com/uc?export=view&id=1lYgRiGzppFXHqCuXPr1qtoiOX3PXmC8T" alt="" style="width: 70%; max-width: 300px;">
+    <img src="https://drive.google.com/uc?export=view&id=1r55K_m6SRlUwGdAQy36caxSJpDP_uJjy" alt="" style="width: 70%; max-width: 300px;">
     <figcaption></figcaption>
 </figure>
 
@@ -24,12 +24,12 @@ description: '# การสมัครสมาชิก Affiliate'
 
 หลังจากเข้าสู่ระบบ ผู้ใช้งานจะเห็นหน้าหลักที่แสดงแพ็กเกจ Affiliate โดยระบบจะตรวจสอบระดับสมาชิกของผู้ใช้งานว่าสามารถเลือกแพ็กเกจใดได้บ้าง 
 
-**สำหรับผู้ใช้งานที่มีระดับ 5 ขึ้นไป** จะมีสิทธิประโยชน์ดังนี้:
-
 <figure>
-    <img src="https://drive.google.com/uc?export=view&id=1mtmbicDvItHQ5briYV71fW8jkc83DJOv" alt="" style="width: 70%; max-width: 300px;">
+    <img src="https://drive.google.com/uc?export=view&id=10-dpgSI2Ag7X3yj-RyDL_abyB0FquuKW" alt="" style="width: 70%; max-width: 300px;">
     <figcaption></figcaption>
 </figure>
+
+**สำหรับผู้ใช้งานที่มีระดับ 5 ขึ้นไป** จะมีสิทธิประโยชน์ดังนี้:
 
 **รายการสินค้า**
 
@@ -59,17 +59,36 @@ description: '# การสมัครสมาชิก Affiliate'
 
 ### เพิ่มความคุ้มครอง (ต่ออายุสมาชิกศรีกรุง)
 
-ประกันอุบัติเหตุส่วนบุคคล (PA) จะแสดงข้อมูลเบื้องต้นตามแพ็คเกจในช่วงเวลาของโปรโมชั่น หากผู้สมัครต้องการเพิ่มความคุ้มครองหรือเลือกแผนที่มีค่ารักษาพยาบาล สามารถเปลี่ยนได้ โดยระบบจะแสดงหน้าต่างเปลี่ยนความคุ้มครอง สามารถทำรายการได้ ดังนี้
-
-<figure><img src="https://drive.google.com/uc?export=view&#x26;id=1XwbLR1ciq_eS0mvARvn3HS-LwTFESRnF" alt=""><figcaption></figcaption></figure>
+ประกันอุบัติเหตุส่วนบุคคล (PA) จะแสดงข้อมูลเบื้องต้นตามแพ็คเกจในช่วงเวลาของโปรโมชั่น หากผู้สมัครต้องการเพิ่มความคุ้มครองหรือเลือกแผนที่มีค่ารักษาพยาบาล สามารถเปลี่ยนได้ 
+โดยระบบจะแสดงหน้าต่างเปลี่ยนความคุ้มครอง สามารถทำรายการได้ ดังนี้
 
 * กดปุ่ม "เปลี่ยนความคุ้มครอง": ระบบจะแสดงหน้าต่างให้เลือกเพิ่มความคุ้มครอง
 
-<figure><img src="https://drive.google.com/uc?export=view&#x26;id=1neryC_0CHrr35VpJ5djNc75VoOXSjQlU" alt=""><figcaption></figcaption></figure>
+<figure>
+    <img src="https://drive.google.com/uc?export=view&id=1P6ofozQ4Xac9asIP0U4pqJ_am6jqp1yT" alt="" style="width: 70%; max-width: 300px;">
+    <figcaption></figcaption>
+</figure>
 
 * กดปุ่ม "เลือกแผนนี้": ระบบจะแสดงราคาที่ต้องชำระเพิ่มเติมของการเพิ่มความคุ้มครองที่เลือก
 
-<figure><img src="https://drive.google.com/uc?export=view&#x26;id=10a04EUIIR-q39-F74uA6JXdI37fqfFp2" alt=""><figcaption></figcaption></figure>
+<figure>
+    <img src="https://drive.google.com/uc?export=view&id=1kehzAyKbCUgMfstSBXGfKWTPRvACLcMh" alt="" style="width: 70%; max-width: 300px;">
+    <figcaption></figcaption>
+</figure>
+
+สำหรับผู้ใช้งานที่ยังไม่หมดอายุสมาชิกศรีกรุงภายใน 90 วันนับตั้งแต่วันที่ทำรายการ ระบบสามารถให้ผู้ใช้งาน คลิกเลือก ให้เจ้าหน้าที่โทรตามส่วนต่างค่าเบี้ย PA เพิ่มก่อนวันหมดอายุได้
+
+<figure>
+    <img src="https://drive.google.com/uc?export=view&id=1QpsN5Iv1sDkYiWb6RRvuC1QEXmGToMx8" alt="" style="width: 70%; max-width: 300px;">
+    <figcaption></figcaption>
+</figure>
+
+หลังจากที่ผู้ใช้งานเลือกเงื่อนไขให้เจ้าหน้าที่โทรติดตามส่วนต่างค่าเบี้ย PA ก่อนวันหมดอายุ ระบบจะทำการประมวลผลและแสดงยอดเงินที่ต้องชำระเพิ่มเติม ณ วันที่เจ้าหน้าโทรติดตาม
+
+<figure>
+    <img src="https://drive.google.com/uc?export=view&id=1QpsN5Iv1sDkYiWb6RRvuC1QEXmGToMx8" alt="" style="width: 70%; max-width: 300px;">
+    <figcaption></figcaption>
+</figure>
 
 ### ชำระค่าแพ็กเกจ
 
