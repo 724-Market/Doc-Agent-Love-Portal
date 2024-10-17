@@ -105,21 +105,33 @@ description: '# การสมัครสมาชิก Affiliate'
 หากผู้ใช้งานมีเงินคงค้าง ระบบจะหักค่าสมาชิก Affiliate จากยอดเงินคงค้างดังกล่าว และผู้ใช้งานต้องชำระเงินที่เหลือจากยอดเงินคงค้าง ในกรณีที่ยอดเงินคงค้างมากกว่าค่าแพ็กเกจ ระบบจะคืนยอดเงินคงค้างส่วนที่เหลือให้ตามขั้นตอนของการดำเนินการปกติ
 {% endhint %}
 
-<figure><img src="https://drive.google.com/uc?export=view&#x26;id=1ppxVIqa5WJMxxqnYCj4LOKATU74UDopg" alt=""><figcaption></figcaption></figure>
+<figure>
+    <img src="https://drive.google.com/uc?export=view&id=1BTr3-s-Y0lB9x1ZRM64WsRnIqAdDC4Lc" alt="" style="width: 70%; max-width: 300px;">
+    <figcaption></figcaption>
+</figure>
 
 ผู้ใช้งานสามารถทำรายการได้ตามขั้นตอน ดังนี้:
 
 * กดปุ่ม “ชำระค่าแพ็กเกจ” ระบบจะแสดงหน้าจอขั้นต่อไปของการทำรายการ
 * ระบบแสดงหน้าจอให้ชำระเงินด้วย QR Code ผู้สมัครสามารถบันทึกข้อมูล QR Code เพื่อไปเปิดในแอปพลิเคชันของธนาคารได้ ในกรณีที่ใช้สมาร์ทโฟนในการสมัคร หากผู้ใช้งานใช้อุปกรณ์อื่น ๆ ก็สามารถนำสมาร์ทโฟนที่มีแอปพลิเคชันของธนาคารแสกนที่หน้าจอได้ทันที
 
-<figure><img src="https://drive.google.com/uc?export=view&#x26;id=1x4GsWr0VjbdT1qGqXU_aSm1fedK5D8s0" alt=""><figcaption></figcaption></figure>
+<figure>
+    <img src="https://drive.google.com/uc?export=view&id=1hIclxhltcoYrQsPe7ppXE02ecp190Vit" alt="" style="width: 70%; max-width: 300px;">
+    <figcaption></figcaption>
+</figure>
 
 ### สมัครแพ็กเกจสำเร็จ
 
 หลังจากที่การชำระเงินเสร็จสมบูรณ์แล้ว ระบบจะแสดงหน้าจอที่ยืนยันการชำระเงินเรียบร้อย
 
-<figure><img src="https://drive.google.com/uc?export=view&#x26;id=1yru8IWH1jd8kP6yrk5-Z05mmhuMh8Bd3" alt=""><figcaption></figcaption></figure>
+<figure>
+    <img src="https://drive.google.com/uc?export=view&id=1SPq6xMiUIGhlgGM7_9HByZ3OKgKi0Ilx" alt="" style="width: 70%; max-width: 300px;">
+    <figcaption></figcaption>
+</figure>
 
-ผู้ใช้งานสามารถตรวจสอบข้อมูลการใช้งานแพ็คเกจได้ที่หน้าหลักของระบบ
+ผู้ใช้งานสามารถตรวจสอบข้อมูลการใช้งานแพ็คเกจและวันที่หมดอายุได้ที่หน้าหลักของระบบ
 
-<figure><img src="https://drive.google.com/uc?export=view&#x26;id=1HrK9uzgvuYNAuFhuPyBAucaVK0d1KFz2" alt=""><figcaption></figcaption></figure>
+<figure>
+    <img src="https://drive.google.com/uc?export=view&id=1GDwt8zStAOaR6QZlIJMJ84JiLSpblx5k" alt="" style="width: 70%; max-width: 300px;">
+    <figcaption></figcaption>
+</figure>
