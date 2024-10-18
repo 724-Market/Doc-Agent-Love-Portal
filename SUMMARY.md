@@ -9,4 +9,4 @@
 ## ขั้นตอนการสมัคร <a href="#registration" id="registration"></a>
 
 * [ภาพรวมการสมัครสมาชิก](registration/overview.md)
-* [สมัครสมาชิก Affiliate](registration/affiliate.md)
+* [เลือกแพ็กเกจใช้งาน](registration/affiliate.md)
