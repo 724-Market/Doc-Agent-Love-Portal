@@ -1,8 +1,8 @@
 ---
-description: '# การสมัครสมาชิก Affiliate'
+description: '# แพ็กเกจ Affiliate'
 ---
 
-# สมัครสมาชิก Affiliate
+# เลือกแพ็กเกจใช้งาน
 
 ### เริ่มต้นการสมัคร
 
