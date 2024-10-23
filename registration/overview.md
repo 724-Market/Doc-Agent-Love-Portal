@@ -55,17 +55,19 @@ description: '# การสมัครสมาชิก 724 Agent'
 หลังจากบันทึกข้อมูลที่อยู่
 
 <figure>
-    <img src="https://drive.google.com/uc?export=view&#x26;id=1WIRMIUu0RYdZXfKDVco79i6yGD2T_lnl" alt="" style="width: 70%; max-width: 300px;">
+    <img src="https://drive.google.com/uc?export=view&id=1J7kk6nENmPQIx_HPuHW7xsXTm8Jfilpi" alt="" style="width: 70%; max-width: 300px;">
     <figcaption></figcaption>
 </figure>
+
 * กดปุ่ม "สมัครสมาชิก" เพื่อเข้าสู่ขั้นตอนยืนยันรหัส OTP
 
 ### ยืนยันรหัส OTP
 
 <figure>
-    <img src="https://drive.google.com/uc?export=view&#x26;id=1kIWFrBz1MxAJapwTR6i4i5-ekWNaC2VB" alt="" style="width: 70%; max-width: 300px;">
+    <img src="https://drive.google.com/uc?export=view&id=1voC6qgw_wazA0_zU-EbOYCnQy3mVhhiu" alt="" style="width: 70%; max-width: 300px;">
     <figcaption></figcaption>
 </figure>
+
 หลังจากกดปุ่มสมัครสมาชิก ระบบจะส่งรหัส OTP 6 หลักไปยังหมายเลขโทรศัพท์ที่ลงทะเบียนไว้ ผู้ใช้งานต้องกรอกรหัส OTP ที่ได้รับภายใน 5 นาทีเพื่อยืนยันตัวตน หลังจากได้รับรหัส OTP ผู้ใช้งานยืนยันด้วย OTP โดยมีขั้นตอนดังนี้:
 
 * กรอกรหัส OTP 6 หลัก
@@ -81,7 +83,7 @@ description: '# การสมัครสมาชิก 724 Agent'
 ### กำหนดรหัสผ่าน
 
 <figure>
-    <img src="https://drive.google.com/uc?export=view&#x26;id=1k4wa_ILkD7uZHb3R18KxETwzP_FAB3dE" alt="" style="width: 70%; max-width: 300px;">
+    <img src="https://drive.google.com/uc?export=view&id=1WcEunDDbXwUz3j27uH0SwoxnostFU-m4" alt="" style="width: 70%; max-width: 300px;">
     <figcaption></figcaption>
 </figure>
 
@@ -106,6 +108,7 @@ description: '# การสมัครสมาชิก 724 Agent'
 ระบบจะแสดงหน้าต่าง "ยินดีต้อนรับสมาชิกใหม่" เป็นการสิ้นสุดกระบวนการลงทะเบียนได้สำเร็จ จากนั้นผู้ใช้งานสามารถกดปุ่ม "ตกลง" เพื่อกลับไปยังหน้าจอเข้าสู่ระบบ และสามารถเข้าใช้งานระบบได้ทันที
 
 <figure>
-    <img src="https://drive.google.com/uc?export=view&#x26;id=1fmmXkkXY05jO_64PCJzY3UqPCDkY-00-" alt="" style="width: 70%; max-width: 300px;">
+    <img src="https://drive.google.com/uc?export=view&id=1-L4wuVns3wCVgLCqiwj31iimY2_dZWyd" alt="" style="width: 70%; max-width: 300px;">
     <figcaption></figcaption>
 </figure>
+
