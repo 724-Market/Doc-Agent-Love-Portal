@@ -8,7 +8,10 @@ description: '# การสมัครสมาชิก 724 Agent'
 
 การสมัครสมาชิกระบบ 724 Agent เริ่มต้นโดยการเข้าหน้าเว็บไซต์ของระบบที่ URL [https://ag.724.co.th/agent](https://ag.724.co.th/agent) ระบบจะแสดงหน้าจอการใช้งานเข้าสู่ระบบ สำหรับผู้ใช้งานที่ยังไม่เคยลงทะเบียนเป็นสมาชิกของระบบ 724 Agent มาก่อน สามารถสมัครสมาชิกโดยทำตามขั้นตอน ดังนี้
 
-<figure><img src="https://drive.google.com/uc?export=view&#x26;id=1TWcqRkLq195NCnEZ1jU3UTT1q0PBQ-wC" alt=""><figcaption></figcaption></figure>
+<figure>
+    <img src="https://drive.google.com/uc?export=view&#x26;id=1TWcqRkLq195NCnEZ1jU3UTT1q0PBQ-wC" alt="" style="width: 70%; max-width: 300px;">
+    <figcaption></figcaption>
+</figure>
 
 ขั้นตอนการทำงาน
 
@@ -16,7 +19,10 @@ description: '# การสมัครสมาชิก 724 Agent'
 
 ### ตรวจสอบสถานะสมาชิก
 
-<figure><img src="https://drive.google.com/uc?export=view&#x26;id=1gs4R7dbtwKpH8Argj2R--XhenNyuiLw0" alt=""><figcaption></figcaption></figure>
+<figure>
+    <img src="https://drive.google.com/uc?export=view&#x26;id=1gs4R7dbtwKpH8Argj2R--XhenNyuiLw0" alt="" style="width: 70%; max-width: 300px;">
+    <figcaption></figcaption>
+</figure>
 
 สำหรับผู้ใช้งานที่เป็นสมาชิกศรีกรุงโบรค์เกอร์ที่มีรหัสสมาชิก (AM) เรียบร้อยแล้ว สามารถกรอกข้อมูลเพื่อตรวจสอบข้อมูลสถานะสมาชิก ขั้นตอนดังนี้:
 
@@ -28,8 +34,10 @@ description: '# การสมัครสมาชิก 724 Agent'
 
 ### ลงทะเบียนสมาชิกใหม่
 
-<figure><img src="https://drive.google.com/uc?export=view&#x26;id=1-l80dCajWuI3z78ulHLtRSAnIc56dIpB" alt=""><figcaption></figcaption></figure>
-
+<figure>
+    <img src="https://drive.google.com/uc?export=view&#x26;id=1-l80dCajWuI3z78ulHLtRSAnIc56dIpB" alt="" style="width: 70%; max-width: 300px;">
+    <figcaption></figcaption>
+</figure>
 หน้าจอลงทะเบียนสมาชิกใหม่ต้องกรอกข้อมูลตามขั้นตอนดังนี้:
 
 * ชื่อ
@@ -38,18 +46,24 @@ description: '# การสมัครสมาชิก 724 Agent'
 * หมายเลขโทรศัพท์ (ที่รับ OTP ได้)
 * กรอกข้อมูลและบันทึกข้อมูลที่อยู่ที่สามารถจัดส่งเอกสารได้ในหน้าต่างที่อยู่
 
-<figure><img src="https://drive.google.com/uc?export=view&#x26;id=1DsVdb4x7EKhxG7pnakaT7l46gD0Cz6pZ" alt=""><figcaption></figcaption></figure>
-
+<figure>
+    <img src="https://drive.google.com/uc?export=view&#x26;id=1DsVdb4x7EKhxG7pnakaT7l46gD0Cz6pZ" alt="" style="width: 70%; max-width: 300px;">
+    <figcaption></figcaption>
+</figure>
 หลังจากบันทึกข้อมูลที่อยู่
 
-<figure><img src="https://drive.google.com/uc?export=view&#x26;id=1WIRMIUu0RYdZXfKDVco79i6yGD2T_lnl" alt=""><figcaption></figcaption></figure>
-
+<figure>
+    <img src="https://drive.google.com/uc?export=view&#x26;id=1WIRMIUu0RYdZXfKDVco79i6yGD2T_lnl" alt="" style="width: 70%; max-width: 300px;">
+    <figcaption></figcaption>
+</figure>
 * กดปุ่ม "สมัครสมาชิก" เพื่อเข้าสู่ขั้นตอนยืนยันรหัส OTP
 
 ### ยืนยันรหัส OTP
 
-<figure><img src="https://drive.google.com/uc?export=view&#x26;id=1kIWFrBz1MxAJapwTR6i4i5-ekWNaC2VB" alt=""><figcaption></figcaption></figure>
-
+<figure>
+    <img src="https://drive.google.com/uc?export=view&#x26;id=1kIWFrBz1MxAJapwTR6i4i5-ekWNaC2VB" alt="" style="width: 70%; max-width: 300px;">
+    <figcaption></figcaption>
+</figure>
 หลังจากกดปุ่มสมัครสมาชิก ระบบจะส่งรหัส OTP 6 หลักไปยังหมายเลขโทรศัพท์ที่ลงทะเบียนไว้ ผู้ใช้งานต้องกรอกรหัส OTP ที่ได้รับภายใน 5 นาทีเพื่อยืนยันตัวตน หลังจากได้รับรหัส OTP ผู้ใช้งานยืนยันด้วย OTP โดยมีขั้นตอนดังนี้:
 
 * กรอกรหัส OTP 6 หลัก
@@ -57,13 +71,17 @@ description: '# การสมัครสมาชิก 724 Agent'
 
 > **หากไม่ได้รับรหัส OTP หลังจาก 5 นาทีผ่านไป ผู้ใช้งานสามารถกดที่ข้อความ "ส่งรหัส OTP อีกครั้ง" เพื่อขอรับรหัสใหม่ โดยระบบจะทำการส่งรหัสให้ใหม่อีกครั้ง**
 
-
-
-<figure><img src="https://drive.google.com/uc?export=view&#x26;id=1fRC8Zsmz7FGguaNl6wA9qFqrn2iJEuAO" alt=""><figcaption></figcaption></figure>
+<figure>
+    <img src="https://drive.google.com/uc?export=view&#x26;id=1fRC8Zsmz7FGguaNl6wA9qFqrn2iJEuAO" alt="" style="width: 70%; max-width: 300px;">
+    <figcaption></figcaption>
+</figure>
 
 ### กำหนดรหัสผ่าน
 
-<figure><img src="https://drive.google.com/uc?export=view&#x26;id=1k4wa_ILkD7uZHb3R18KxETwzP_FAB3dE" alt=""><figcaption></figcaption></figure>
+<figure>
+    <img src="https://drive.google.com/uc?export=view&#x26;id=1k4wa_ILkD7uZHb3R18KxETwzP_FAB3dE" alt="" style="width: 70%; max-width: 300px;">
+    <figcaption></figcaption>
+</figure>
 
 หลังจากยืนยันรหัส OTP เรียบร้อยแล้วระบบจะแสดงหน้าจอให้กำหนดรหัสผ่านเพื่อใช้เข้าสู่ระบบ ผู้ใช้งานต้องกำหนดรหัสผ่านที่ถูกต้องกับรูปแบบที่ระบบกำหนดตามคำแนะนำรหัสผ่านที่ปลอดภัยที่แสดงบนหน้าจอ
 
@@ -85,4 +103,7 @@ description: '# การสมัครสมาชิก 724 Agent'
 
 ระบบจะแสดงหน้าต่าง "ยินดีต้อนรับสมาชิกใหม่" เป็นการสิ้นสุดกระบวนการลงทะเบียนได้สำเร็จ จากนั้นผู้ใช้งานสามารถกดปุ่ม "ตกลง" เพื่อกลับไปยังหน้าจอเข้าสู่ระบบ และสามารถเข้าใช้งานระบบได้ทันที
 
-<figure><img src="https://drive.google.com/uc?export=view&#x26;id=1fmmXkkXY05jO_64PCJzY3UqPCDkY-00-" alt=""><figcaption></figcaption></figure>
+<figure>
+    <img src="https://drive.google.com/uc?export=view&#x26;id=1fmmXkkXY05jO_64PCJzY3UqPCDkY-00-" alt="" style="width: 70%; max-width: 300px;">
+    <figcaption></figcaption>
+</figure>
