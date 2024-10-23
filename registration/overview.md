@@ -76,7 +76,7 @@ description: '# การสมัครสมาชิก 724 Agent'
 > **หากไม่ได้รับรหัส OTP หลังจาก 5 นาทีผ่านไป ผู้ใช้งานสามารถกดที่ข้อความ "ส่งรหัส OTP อีกครั้ง" เพื่อขอรับรหัสใหม่ โดยระบบจะทำการส่งรหัสให้ใหม่อีกครั้ง**
 
 <figure>
-    <img src="https://drive.google.com/uc?export=view&#x26;id=1fRC8Zsmz7FGguaNl6wA9qFqrn2iJEuAO" alt="" style="width: 70%; max-width: 300px;">
+    <img src="https://drive.google.com/uc?export=view&id=1VoLkPG3QHlslYNF_yHcoubcsDBJ7LuQM" alt="" style="width: 70%; max-width: 300px;">
     <figcaption></figcaption>
 </figure>
 
