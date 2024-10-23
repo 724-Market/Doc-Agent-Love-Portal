@@ -9,7 +9,7 @@ description: '# การสมัครสมาชิก 724 Agent'
 การสมัครสมาชิกระบบ 724 Agent เริ่มต้นโดยการเข้าหน้าเว็บไซต์ของระบบที่ URL [https://ag.724.co.th/agent](https://ag.724.co.th/agent) ระบบจะแสดงหน้าจอการใช้งานเข้าสู่ระบบ สำหรับผู้ใช้งานที่ยังไม่เคยลงทะเบียนเป็นสมาชิกของระบบ 724 Agent มาก่อน สามารถสมัครสมาชิกโดยทำตามขั้นตอน ดังนี้
 
 <figure>
-    <img src="https://drive.google.com/uc?export=view&#x26;id=1TWcqRkLq195NCnEZ1jU3UTT1q0PBQ-wC" alt="" style="width: 70%; max-width: 300px;">
+    <img src="https://drive.google.com/uc?export=view&id=1f6gbdpov3UUC07TPVXDw7u8W0SjPhm3x" alt="" style="width: 70%; max-width: 300px;">
     <figcaption></figcaption>
 </figure>
 
@@ -20,7 +20,7 @@ description: '# การสมัครสมาชิก 724 Agent'
 ### ตรวจสอบสถานะสมาชิก
 
 <figure>
-    <img src="https://drive.google.com/uc?export=view&#x26;id=1gs4R7dbtwKpH8Argj2R--XhenNyuiLw0" alt="" style="width: 70%; max-width: 300px;">
+    <img src="https://drive.google.com/uc?export=view&id=1XTbMmOQ79ZMvbvrUmnuHZhXN_fk2TtC3" alt="" style="width: 70%; max-width: 300px;">
     <figcaption></figcaption>
 </figure>
 
@@ -35,9 +35,10 @@ description: '# การสมัครสมาชิก 724 Agent'
 ### ลงทะเบียนสมาชิกใหม่
 
 <figure>
-    <img src="https://drive.google.com/uc?export=view&#x26;id=1-l80dCajWuI3z78ulHLtRSAnIc56dIpB" alt="" style="width: 70%; max-width: 300px;">
+    <img src="https://drive.google.com/uc?export=view&id=1OI9x79U_vdrJ8_IjHAL40SHtzAnC1lba" alt="" style="width: 70%; max-width: 300px;">
     <figcaption></figcaption>
 </figure>
+
 หน้าจอลงทะเบียนสมาชิกใหม่ต้องกรอกข้อมูลตามขั้นตอนดังนี้:
 
 * ชื่อ
@@ -47,9 +48,10 @@ description: '# การสมัครสมาชิก 724 Agent'
 * กรอกข้อมูลและบันทึกข้อมูลที่อยู่ที่สามารถจัดส่งเอกสารได้ในหน้าต่างที่อยู่
 
 <figure>
-    <img src="https://drive.google.com/uc?export=view&#x26;id=1DsVdb4x7EKhxG7pnakaT7l46gD0Cz6pZ" alt="" style="width: 70%; max-width: 300px;">
+    <img src="https://drive.google.com/uc?export=view&id=1iS5-MjHXJZ5e2Jc8485ClSP9WPD7qaiT" alt="" style="width: 70%; max-width: 300px;">
     <figcaption></figcaption>
 </figure>
+
 หลังจากบันทึกข้อมูลที่อยู่
 
 <figure>
