@@ -58,7 +58,7 @@ description: '# แพ็กเกจ Affiliate'
 * กดปุ่ม “เลือกแพ็กเกจนี้” ระบบจะแสดงหน้าจอขั้นต่อไปของการทำรายการ
 
 <figure>
-    <img src="https://drive.google.com/uc?export=view&id=10-dpgSI2Ag7X3yj-RyDL_abyB0FquuKW" alt="" style="width: 70%; max-width: 300px;">
+    <img src="https://drive.google.com/uc?export=view&id=1I_QGJBhJMCdwbwjIT9n9AEP6E8JFmNR2" alt="" style="width: 70%; max-width: 300px;">
     <figcaption></figcaption>
 </figure>
 
