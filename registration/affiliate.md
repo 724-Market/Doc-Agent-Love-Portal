@@ -25,7 +25,7 @@ description: '# แพ็กเกจ Affiliate'
 หลังจากเข้าสู่ระบบ ผู้ใช้งานจะเห็นหน้าหลักที่แสดงแพ็กเกจ Affiliate โดยระบบจะตรวจสอบระดับสมาชิกของผู้ใช้งานว่าสามารถเลือกแพ็กเกจใดได้บ้าง 
 
 <figure>
-    <img src="https://drive.google.com/uc?export=view&id=1kyR-llbsjHLyYlm1fb90S5fMxxD8GQA-" alt="" style="width: 70%; max-width: 300px;">
+    <img src="https://drive.google.com/uc?export=view&id=1I_QGJBhJMCdwbwjIT9n9AEP6E8JFmNR2" alt="" style="width: 70%; max-width: 300px;">
     <figcaption></figcaption>
 </figure>
 
@@ -58,7 +58,7 @@ description: '# แพ็กเกจ Affiliate'
 * กดปุ่ม “เลือกแพ็กเกจนี้” ระบบจะแสดงหน้าจอขั้นต่อไปของการทำรายการ
 
 <figure>
-    <img src="https://drive.google.com/uc?export=view&id=1I_QGJBhJMCdwbwjIT9n9AEP6E8JFmNR2" alt="" style="width: 70%; max-width: 300px;">
+    <img src="https://drive.google.com/uc?export=view&id=1IhEtnfgU6AxtLTyUuj--7hIfGI-xJY7Y" alt="" style="width: 70%; max-width: 300px;">
     <figcaption></figcaption>
 </figure>
 
