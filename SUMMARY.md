@@ -12,3 +12,7 @@
 * [เลือกแพ็กเกจใช้งาน](registration/affiliate.md)
 
 ## ขั้นตอนการแจ้งงาน พ.ร.บ. <a href="#registration" id="registration"></a>
+
+## ขั้นตอนการแจ้งงาน พ.ร.บ.
+
+* [Page 1](.-.-./page-1.md)
