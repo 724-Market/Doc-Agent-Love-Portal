@@ -13,6 +13,6 @@
 
 ## ขั้นตอนการแจ้งงาน พ.ร.บ. <a href="#registration" id="registration"></a>
 
-## ขั้นตอนการแจ้งงาน พ.ร.บ.
+## ขั้นตอนการแจ้งงาน พ.ร.บ. <a href="#compulsory" id="compulsory"></a>
 
-* [Page 1](.-.-./page-1.md)
+* [Page 1](compulsory/page-1.md)
