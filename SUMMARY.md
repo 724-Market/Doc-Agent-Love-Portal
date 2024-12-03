@@ -10,3 +10,7 @@
 
 * [ลงทะเบียนสมาชิก 724 Agent Love](registration/overview.md)
 * [เลือกแพ็กเกจใช้งาน](registration/affiliate.md)
+
+## ขั้นตอนการแจ้งงาน พ.ร.บ. <a href="#compulsory" id="compulsory"></a>
+
+* [เริ่มต้นแจ้งงาน พ.ร.บ.](compulsory/.-.-..md)
