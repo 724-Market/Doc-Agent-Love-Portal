@@ -74,6 +74,8 @@
 
 ## 2. เลือกแพ็กเกจ
 
+หลังจากกรอกข้อมูลขั้นตอนที่ 1 เรียบร้อยแล้ว ระบบจะแสดงหน้าจอขั้นตอนที่ 2 ให้ทำรายการขั้นตอน
+
 <figure>
     <img src="https://drive.google.com/uc?export=view&id=1S1I-E-5dF-y2tKQISQvkMdDV-Cil9CzG" alt="" style="width: 70%; max-width: 300px;">
     <figcaption></figcaption>
