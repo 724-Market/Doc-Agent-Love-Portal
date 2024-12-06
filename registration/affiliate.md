@@ -25,7 +25,7 @@ description: '# แพ็กเกจ Affiliate'
 หลังจากเข้าสู่ระบบ ผู้ใช้งานจะเห็นหน้าหลักที่แสดงแพ็กเกจ Affiliate โดยระบบจะตรวจสอบระดับสมาชิกของผู้ใช้งานว่าสามารถเลือกแพ็กเกจใดได้บ้าง 
 
 <figure>
-    <img src="https://drive.google.com/uc?export=view&id=1Bn_eezu5MEHL5N5DPhPGQ3FT-0VbjTQf" alt="" style="width: 70%; max-width: 300px;">
+    <img src="https://drive.google.com/uc?export=view&id=1FC8E-BWhBVOKYRxfpGshWDYbKWG7cg00" alt="" style="width: 70%; max-width: 300px;">
     <figcaption></figcaption>
 </figure>
 
@@ -35,7 +35,7 @@ description: '# แพ็กเกจ Affiliate'
 
 **รายการสินค้า**
 
-* [x] <mark style="color:green;">ซื้อ-ขาย ประกันทุกประเภท</mark>
+* [x] <mark style="color:green;"></mark>ซื้อ-ขาย ประกันทุกประเภท
 * [x] <mark style="color:green;">แพคเกจทัวร์</mark>
 * [x] <mark style="color:green;">รถมือสอง</mark>
 * [x] <mark style="color:green;">ออฟฟิศให้เช่า</mark>
