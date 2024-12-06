@@ -125,7 +125,10 @@ description: '# แพ็กเกจ Affiliate'
 
 ในกรณีที่ผู้ใช้งานเริ่มต้นการใช้งานโดยเลือกแพ็คเกจ 990/ปี ระบบจะแสดงหน้าจอต่อไปให้ทำรายการ
 
-
+<figure>
+    <img src="https://drive.google.com/uc?export=view&id=1CnAgTZx6s2oKw7ZTyWQ_V5iuUlbk7w2N" alt="" style="width: 70%; max-width: 300px;">
+    <figcaption></figcaption>
+</figure>
 
 ### เพิ่มความคุ้มครอง (ต่ออายุสมาชิกศรีกรุง)
 
