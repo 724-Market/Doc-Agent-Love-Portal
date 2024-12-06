@@ -25,11 +25,13 @@ description: '# แพ็กเกจ Affiliate'
 หลังจากเข้าสู่ระบบ ผู้ใช้งานจะเห็นหน้าหลักที่แสดงแพ็กเกจ Affiliate โดยระบบจะตรวจสอบระดับสมาชิกของผู้ใช้งานว่าสามารถเลือกแพ็กเกจใดได้บ้าง 
 
 <figure>
-    <img src="https://drive.google.com/uc?export=view&id=1I_QGJBhJMCdwbwjIT9n9AEP6E8JFmNR2" alt="" style="width: 70%; max-width: 300px;">
+    <img src="https://drive.google.com/uc?export=view&id=1Bn_eezu5MEHL5N5DPhPGQ3FT-0VbjTQf" alt="" style="width: 70%; max-width: 300px;">
     <figcaption></figcaption>
 </figure>
 
-**สำหรับผู้ใช้งานที่มีระดับ 5 ขึ้นไป จะมีสิทธิประโยชน์ดังนี้**
+**สำหรับผู้ใช้งานที่มีระดับ 5 ขึ้นไป จะมีแพ็คเกจและสิทธิประโยชน์ดังนี้**
+
+**แพ็คเกจทดลองใช้ 90 วัน**
 
 **รายการสินค้า**
 
@@ -44,13 +46,34 @@ description: '# แพ็กเกจ Affiliate'
 * [x] <mark style="color:green;">ค่าส่งเสริมการขาย</mark>
 * [x] <mark style="color:green;">ค่าแนะนำ</mark>
 * [x] <mark style="color:green;">ค่าสายงาน</mark>
-* [x] <mark style="color:green;">ต่ออายุสมาชิกศรีกรุงฟรี (ถึงสิ้นปี 2567)</mark>
+* [x] <mark style="color:green;">ส่วนลดต่ออายุสมาชิกศรีกรุง (ถึงสิ้นปี 2567)</mark>
+* [x] <mark style="color:green;">แลกกระดาษ 50 ใบ ต่อบริษัทประกัน</mark>
+* [x] <mark style="color:green;">ผู้ช่วย 5 คน</mark>
+
+**แพ็กเกจ 990 บาท/ปี**
+
+**รายการสินค้า**
+
+* [x] <mark style="color:green;">ซื้อ-ขาย ประกันทุกประเภท</mark>
+* [x] <mark style="color:green;">แพคเกจทัวร์</mark>
+* [x] <mark style="color:green;">รถมือสอง</mark>
+* [x] <mark style="color:green;">ออฟฟิศให้เช่า</mark>
+* [x] <mark style="color:green;">การลงทุน</mark>
+
+**สิทธิพิเศษต่างๆ ที่จะได้รับ**
+
+* [x] <mark style="color:green;">ค่าส่งเสริมการขาย</mark>
+* [x] <mark style="color:green;">ค่าแนะนำ</mark>
+* [x] <mark style="color:green;">ค่าสายงาน</mark>
+* [x] <mark style="color:green;">ส่วนลดต่ออายุสมาชิกศรีกรุง (ถึงสิ้นปี 2567)</mark>
+* [x] <mark style="color:green;">แลกกระดาษ 50 ใบ ต่อบริษัทประกัน</mark>
+* [x] <mark style="color:green;">ผู้ช่วย 5 คน</mark>
 
 {% hint style="info" %}
 ในกรณีที่อายุสมาชิกศรีกรุงเดิมยังไม่หมดอายุระบบจะต่ออายุให้หลังจากวันหมดอายุเดิมของผู้ใช้งาน
 {% endhint %}
 
-* [x] <mark style="color:green;">แลกกระดาษ 5 ใบ ต่อบริษัทประกัน</mark>
+* [x] <mark style="color:green;">แลกกระดาษ 50 ใบ ต่อบริษัทประกัน</mark>
 * [x] <mark style="color:green;">ผู้ช่วย 5 คน</mark>
 
 ผู้ใช้งานสามารถทำรายการได้ตามขั้นตอน ดังนี้:
