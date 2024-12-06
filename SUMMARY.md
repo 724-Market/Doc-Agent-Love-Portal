@@ -14,3 +14,7 @@
 ## ขั้นตอนการแจ้งงาน พ.ร.บ. <a href="#compulsory" id="compulsory"></a>
 
 * [เริ่มต้นแจ้งงาน พ.ร.บ.](compulsory/.-.-..md)
+
+## ขั้นตอนการแลกกระดาษ <a href="#paper" id="paper"></a>
+
+* [เริ่มต้นการแลกกระดาษ](paper/create.md)
