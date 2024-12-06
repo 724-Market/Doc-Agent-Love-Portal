@@ -136,27 +136,43 @@ description: '# แพ็กเกจ Affiliate'
 
 * กดปุ่ม "เปลี่ยนความคุ้มครอง" ระบบจะแสดงหน้าต่างให้เลือกความคุ้มครองเพิ่มเติม
 
-<figure><img src="https://drive.google.com/uc?export=view&#x26;id=1P6ofozQ4Xac9asIP0U4pqJ_am6jqp1yT" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://drive.google.com/uc?export=view&#x26;id=1P6ofozQ4Xac9asIP0U4pqJ_am6jqp1yT" alt="" style="width: 70%; max-width: 300px;">
+    <figcaption></figcaption>
+</figure>
+
 
 * กดปุ่ม "เลือกแผนนี้" ตรงแผนที่ต้องการ
 
-<figure><img src="https://drive.google.com/uc?export=view&#x26;id=1kehzAyKbCUgMfstSBXGfKWTPRvACLcMh" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://drive.google.com/uc?export=view&#x26;id=1kehzAyKbCUgMfstSBXGfKWTPRvACLcMh" alt="" style="width: 70%; max-width: 300px;">
+    <figcaption></figcaption>
+</figure>
+
 
 หลังจากนั้น ระบบจะแสดงหน้าชำระเงินพร้อมรายละเอียดทั้งหมดที่ต้องชำระ สำหรับผู้ใช้งานที่มีอายุสมาชิกศรีกรุงเหลือมากกว่า 90 วัน นับจากวันที่ทำรายการ สามารถคลิกเลือกให้เจ้าหน้าที่โทรตามส่วนต่างค่าเบี้ย PA เพิ่มก่อนวันหมดอายุได้
 
-<figure><img src="https://drive.google.com/uc?export=view&#x26;id=1QpsN5Iv1sDkYiWb6RRvuC1QEXmGToMx8" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://drive.google.com/uc?export=view&#x26;id=1QpsN5Iv1sDkYiWb6RRvuC1QEXmGToMx8" alt="" style="width: 70%; max-width: 300px;">
+    <figcaption></figcaption>
+</figure>
+
 
 หลังจากที่ผู้ใช้งานเลือกเงื่อนไขให้เจ้าหน้าที่โทรติดตามส่วนต่างค่าเบี้ย PA ก่อนวันหมดอายุ ระบบจะทำการประมวลผลและแสดงยอดเงินที่ต้องชำระเพิ่มเติม ณ วันที่เจ้าหน้าโทรติดต่อกลับไปหาผู้ใช้งาน
 
-<figure><img src="https://drive.google.com/uc?export=view&#x26;id=1r8yAe-kiMcXBOZ2u-RJJYgbXd3kXdCWs" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://drive.google.com/uc?export=view&#x26;id=1r8yAe-kiMcXBOZ2u-RJJYgbXd3kXdCWs" alt="" style="width: 70%; max-width: 300px;">
+    <figcaption></figcaption>
+</figure>
+
 
 ### ชำระค่าแพ็กเกจ
 
-<figure><img src="https://drive.google.com/uc?export=view&#x26;id=1z7Ec2hTs93TcQReFH-OLdKDM2KlhPAKV" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://drive.google.com/uc?export=view&#x26;id=1z7Ec2hTs93TcQReFH-OLdKDM2KlhPAKV" alt="" style="width: 70%; max-width: 300px;">
+    <figcaption></figcaption>
+</figure>
 
 **สำหรับผู้ใช้งานที่มีเงินคงค้างในระบบ จะแสดงข้อมูลเพิ่มเติมดังนี้**
 
-<figure><img src="https://drive.google.com/uc?export=view&#x26;id=1BTr3-s-Y0lB9x1ZRM64WsRnIqAdDC4Lc" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://drive.google.com/uc?export=view&#x26;id=1BTr3-s-Y0lB9x1ZRM64WsRnIqAdDC4Lc" alt="" style="width: 70%; max-width: 300px;">
+    <figcaption></figcaption>
+</figure>
 
 ผู้ใช้งานสามารถทำรายการได้ตามขั้นตอน ดังนี้:
 
@@ -167,14 +183,21 @@ description: '# แพ็กเกจ Affiliate'
 หากผู้ใช้งานมีเงินคงค้าง ระบบจะหักค่าสมาชิก Affiliate จากยอดเงินคงค้างดังกล่าว และผู้ใช้งานต้องชำระเงินที่เหลือจากยอดเงินคงค้าง ในกรณีที่ยอดเงินคงค้างมากกว่าค่าแพ็กเกจ ระบบจะคืนยอดเงินคงค้างส่วนที่เหลือให้ตามขั้นตอนของการดำเนินการปกติ
 {% endhint %}
 
-<figure><img src="https://drive.google.com/uc?export=view&#x26;id=1hIclxhltcoYrQsPe7ppXE02ecp190Vit" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://drive.google.com/uc?export=view&#x26;id=1hIclxhltcoYrQsPe7ppXE02ecp190Vit" alt="" style="width: 70%; max-width: 300px;">
+    <figcaption></figcaption>
+</figure>
 
 ### สมัครแพ็กเกจสำเร็จ
 
 หลังจากที่การชำระเงินเสร็จสมบูรณ์แล้ว ระบบจะแสดงหน้าจอที่ยืนยันการชำระเงินเรียบร้อย
 
-<figure><img src="https://drive.google.com/uc?export=view&#x26;id=1SPq6xMiUIGhlgGM7_9HByZ3OKgKi0Ilx" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://drive.google.com/uc?export=view&#x26;id=1SPq6xMiUIGhlgGM7_9HByZ3OKgKi0Ilx" alt="" style="width: 70%; max-width: 300px;">
+    <figcaption></figcaption>
+</figure>
 
 ผู้ใช้งานสามารถตรวจสอบข้อมูลการใช้งานแพ็คเกจและวันที่หมดอายุได้ที่หน้าหลักของระบบ
 
-<figure><img src="https://drive.google.com/uc?export=view&#x26;id=1GDwt8zStAOaR6QZlIJMJ84JiLSpblx5k" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://drive.google.com/uc?export=view&#x26;id=1GDwt8zStAOaR6QZlIJMJ84JiLSpblx5k" alt="" style="width: 70%; max-width: 300px;">
+    <figcaption></figcaption>
+</figure>
+
