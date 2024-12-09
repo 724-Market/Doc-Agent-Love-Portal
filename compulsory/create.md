@@ -122,28 +122,28 @@
 1. บุคคลธรรมดา : คนไทย , คนต่างชาติ
 2. นิติบุคคล : สำนักงานใหญ่ , สาขา
 
-** กรณีนิติบุคคล : สาขา **
+**กรณีนิติบุคคล : สาขา**
 
 <figure>
     <img src="https://drive.google.com/uc?export=view&id=1q3-emBOpTJfQb9nbdkuvv9pCQ17wGnWw" alt="" style="width: 70%; max-width: 300px;">
     <figcaption></figcaption>
 </figure>
 
-#### กรณีนิติบุคคล : สำนักงานใหญ่
+**กรณีนิติบุคคล : สำนักงานใหญ่**
 
 <figure>
     <img src="https://drive.google.com/uc?export=view&id=1hfkMZqwS4RjeC8lRFVrq2nKJHbTtcqyf" alt="" style="width: 70%; max-width: 300px;">
     <figcaption></figcaption>
 </figure>
 
-#### กรณีบุคคลธรรมดา : คนต่างชาติ
+**กรณีบุคคลธรรมดา : คนต่างชาติ**
 
 <figure>
     <img src="https://drive.google.com/uc?export=view&id=1zM8OvG1nmFf6ClSE0fFVF3unL5IGhj33" alt="" style="width: 70%; max-width: 300px;">
     <figcaption></figcaption>
 </figure>
 
-#### กรณีบุคคลธรรมดา : คนไทย
+**กรณีบุคคลธรรมดา : คนไทย**
 
 <figure>
     <img src="https://drive.google.com/uc?export=view&id=1iajzpS2T34Lag9cK75saRxz7rLpuDi42" alt="" style="width: 70%; max-width: 300px;">
