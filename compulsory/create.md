@@ -122,7 +122,7 @@
 1. บุคคลธรรมดา : คนไทย , คนต่างชาติ
 2. นิติบุคคล : สำนักงานใหญ่ , สาขา
 
-#### กรณีนิติบุคคล : สาขา
+** กรณีนิติบุคคล : สาขา **
 
 <figure>
     <img src="https://drive.google.com/uc?export=view&id=1q3-emBOpTJfQb9nbdkuvv9pCQ17wGnWw" alt="" style="width: 70%; max-width: 300px;">
