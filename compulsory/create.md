@@ -279,4 +279,65 @@
 * แขวง/ตำบล: เลือกแขวงหรือตำบล
 * รหัสไปรษณีย์: รหัสไปรษณีย์แสดงตามเขต/แขวงที่เลือก
 
+#### การจัดส่งใบกำกับภาษี
+
+การจัดส่งใบกำกับภาษี แบ่งออกเป็น 2 แบบ คือ
+1. จัดพร้อมกรมธรรม์ : ส่งไปพร้อมกันกับกรมธรรม์ โดยไม่เสียค่าจัดส่ง
+2. จัดส่งแยก : ส่งไปตามที่อยู่แยกที่ระบุ โดยเสียค่าจัดส่ง 30 บาท (ค่าส่งแล้วแต่โปรโมชั่น)
+
+**จัดพร้อมกรมธรรม์**
+
+<figure>
+    <img src="https://drive.google.com/uc?export=view&id=1MqNW5m4D7IqRN0UFMFZZnM3zDzQCgQvm" alt="" style="width: 70%; max-width: 300px;">
+    <figcaption></figcaption>
+</figure>
+
+**จัดส่งแยก**
+
+<figure>
+    <img src="https://drive.google.com/uc?export=view&id=1eBqz6Fm5VWfdhVIRqdXlPZpc_a0z0VIm" alt="" style="width: 70%; max-width: 300px;">
+    <figcaption></figcaption>
+</figure>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
