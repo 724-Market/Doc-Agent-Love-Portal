@@ -122,10 +122,35 @@
 1. บุคคลธรรมดา : คนไทย , คนต่างชาติ
 2. นิติบุคคล : สำนักงานใหญ่ , สาขา
 
+#### กรณีนิติบุคคล : สาขา
+
+<figure>
+    <img src="https://drive.google.com/uc?export=view&id=1q3-emBOpTJfQb9nbdkuvv9pCQ17wGnWw" alt="" style="width: 70%; max-width: 300px;">
+    <figcaption></figcaption>
+</figure>
+
+#### กรณีนิติบุคคล : สำนักงานใหญ่
+
+<figure>
+    <img src="https://drive.google.com/uc?export=view&id=1hfkMZqwS4RjeC8lRFVrq2nKJHbTtcqyf" alt="" style="width: 70%; max-width: 300px;">
+    <figcaption></figcaption>
+</figure>
+
+#### กรณีบุคคลธรรมดา : คนต่างชาติ
+
+<figure>
+    <img src="https://drive.google.com/uc?export=view&id=1zM8OvG1nmFf6ClSE0fFVF3unL5IGhj33" alt="" style="width: 70%; max-width: 300px;">
+    <figcaption></figcaption>
+</figure>
+
+#### กรณีบุคคลธรรมดา : คนไทย
+
 <figure>
     <img src="https://drive.google.com/uc?export=view&id=1iajzpS2T34Lag9cK75saRxz7rLpuDi42" alt="" style="width: 70%; max-width: 300px;">
     <figcaption></figcaption>
 </figure>
+
+ขั้นตอนการกรอกข้อมูลผู้เอาประกันภัย มีขั้นตอนดังนี้
 
 * คำนำหน้า : กดเลือกคำนำหน้าหรือกรอกคำค้นหาที่ต้องการ
 * ชื่อ-นามสกุล : กรอกชื่อและนามสกุลของผู้เอาประกันภัย
@@ -166,18 +191,32 @@
     <figcaption></figcaption>
 </figure>
  
-การจัดส่งกรมธรรม์ตัวจริง ระบบจะส่งไปที่อยู่ของผู้เอาประกันในขั้นตอนการกรอกข้อมูลผู้เอาประกันก่อนหน้า 
+การจัดส่งกรมธรรม์ตัวจริง ระบบจะจัดส่งไปยังที่อยู่ของผู้เอาประกันที่ได้ระบุไว้ในขั้นตอนการกรอกข้อมูลผู้เอาประกันภัย
 
-ในกรณีที่ผู้ใช้งานต้องการ "เปลี่ยนที่อยู่ใหม่" ในจัดส่งกรมธรรม์สามารถกดที่ช่องแท็บเปลี่ยนที่อยู่ใหม่ได้ ดังนี้
+หากผู้ใช้งานต้องการ "เปลี่ยนที่อยู่สำหรับการจัดส่ง" สามารถกดที่แท็บ "เปลี่ยนที่อยู่ใหม่" และกรอกข้อมูลที่อยู่ใหม่ได้ โดยทำตามขั้นตอนดังนี้:
+
+* กดเลือกแท็บ "เปลี่ยนที่อยู่ใหม่"
+* กรอกข้อมูลที่อยู่ใหม่ให้ครบถ้วน
+* ตรวจสอบความถูกต้องของข้อมูลที่อยู่ใหม่ ข้อมูลที่อยู่ใหม่จะถูกใช้สำหรับการจัดส่งกรมธรรม์ตัวจริง
 
 <figure>
     <img src="https://drive.google.com/uc?export=view&id=1txA9qTbZKjJnz7qMGVorHwST5QnWyQUy" alt="" style="width: 70%; max-width: 300px;">
     <figcaption></figcaption>
 </figure>
 
+#### ใบกำกับภาษี
 
+ในกรณีที่ผู้ใช้งานต้องการขอใบกำกับภาษีสามารถกด "ขอใบกำกับภาษี" ได้ ระบบจะออกในนามผู้เอาประกันตามข้อมูลที่กรอกไว้ก่อนหน้า
 
+<figure>
+    <img src="https://drive.google.com/uc?export=view&id=1EI8a1Be-k4hvyaPKPbWGxnOBu1kFR2lB" alt="" style="width: 70%; max-width: 300px;">
+    <figcaption></figcaption>
+</figure>
 
+หากผู้ใช้งานต้องการ "แก้ไขใบกำกับภาษี" สามารถกดที่แท็บ "แก้ไขใบกำกับภาษี" และกรอกข้อมูลที่อยู่ใหม่ได้ โดยทำตามขั้นตอนดังนี้:
 
+* กดเลือกแท็บ "แก้ไขใบกำกับภาษี"
+* กรอกข้อมูลที่อยู่ใหม่ให้ครบถ้วน
+* ตรวจสอบความถูกต้องของข้อมูลใหม่ ข้อมูลที่แก้ไขจะถูกใช้ในการขอออกใบกำกับภาษี
 
 
