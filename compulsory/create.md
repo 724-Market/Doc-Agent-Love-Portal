@@ -299,13 +299,35 @@
     <figcaption></figcaption>
 </figure>
 
+### 4. วิธีชำระเงิน
 
+หลังจากกรอกข้อมูลขั้นตอนที่ 3 ระบุข้อมูลแพ็คเกจเรียบร้อยแล้ว ระบบจะแสดงหน้าจอขั้นตอนที่ 4 เลือกวิธีชำระเงินให้ทำรายการ
 
+วิธีชำระเงิน แบ่งออกเป็น 3 รูปแบบ คือ
+1. แสกน QR : 
+2. บัตรเครดิต/บัตรเครดิต : 
+3. วงเงินมัดจำ : 
 
+**แสกน QR : หักส่วนลดเต็มจำนวน**
 
+<figure>
+    <img src="https://drive.google.com/uc?export=view&id=13N-oeUVsU5qFpDrrLhfeF3Nb_e2qqQiM" alt="" style="width: 70%; max-width: 300px;">
+    <figcaption></figcaption>
+</figure>
 
+**แสกน QR : หักส่วนลดเต็มบางส่วน**
 
+<figure>
+    <img src="https://drive.google.com/uc?export=view&id=1A8L-CXxaCikLLJqCM6Zj1QHUkLu1bJPG" alt="" style="width: 70%; max-width: 300px;">
+    <figcaption></figcaption>
+</figure>
 
+**แสกน QR : ชำระเบี้ยเต็มจำนวน**
+
+<figure>
+    <img src="https://drive.google.com/uc?export=view&id=1XRjk8zxe9zBJAvGegM5qMVG3k8fBpHoa" alt="" style="width: 70%; max-width: 300px;">
+    <figcaption></figcaption>
+</figure>
 
 
 
