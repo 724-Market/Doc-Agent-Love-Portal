@@ -123,6 +123,13 @@ description: '# แพ็กเกจ Affiliate'
     <figcaption></figcaption>
 </figure>
 
+ผู้ใช้งานสามารถตรวจสอบข้อมูลการใช้งานแพ็คเกจและวันที่หมดอายุได้ที่หน้าหลักของระบบ
+
+<figure>
+    <img src="https://drive.google.com/uc?export=view&id=1IS6z8U9N7Q5j2ceKw8Aque-EiiDbppz_" alt="" style="width: 70%; max-width: 300px;">
+    <figcaption></figcaption>
+</figure>
+
 ในกรณีที่ผู้ใช้งานเริ่มต้นการใช้งานโดยเลือกแพ็คเกจ 990/ปี ระบบจะแสดงหน้าจอต่อไปให้ทำรายการ
 
 <figure>
