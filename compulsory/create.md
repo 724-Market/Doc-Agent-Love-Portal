@@ -166,6 +166,14 @@
     <figcaption></figcaption>
 </figure>
  
+การจัดส่งกรมธรรม์ตัวจริง ระบบจะส่งไปที่อยู่ของผู้เอาประกันในขั้นตอนการกรอกข้อมูลผู้เอาประกันก่อนหน้า 
+
+ในกรณีที่ผู้ใช้งานต้องการ "เปลี่ยนที่อยู่ใหม่" ในจัดส่งกรมธรรม์สามารถกดที่ช่องแท็บเปลี่ยนที่อยู่ใหม่ได้ ดังนี้
+
+<figure>
+    <img src="https://drive.google.com/uc?export=view&id=1txA9qTbZKjJnz7qMGVorHwST5QnWyQUy" alt="" style="width: 70%; max-width: 300px;">
+    <figcaption></figcaption>
+</figure>
 
 
 
