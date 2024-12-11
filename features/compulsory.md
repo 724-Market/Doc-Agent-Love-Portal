@@ -352,12 +352,27 @@
     <figcaption></figcaption>
 </figure>
 
-หากผู้ใช้งานไม่ต้องการแก้ไขข้อมูล สามารถดำเนินการต่อได้โดยกด "ยอมรับเงื่อนไข" และกดปุ่ม "ยืนยันการชำระเงิน" ทันที
+หากผู้ใช้งานไม่ต้องการแก้ไขข้อมูล สามารถดำเนินการต่อได้โดยกด "ยอมรับเงื่อนไข" และกดปุ่ม "ยืนยันการชำระเงิน" ทันที 
 
 <figure>
     <img src="https://drive.google.com/uc?export=view&id=1b1uOzIvdYnObctCtZNGAw-4EoqVNEisX" alt="" style="width: 70%; max-width: 300px;">
     <figcaption></figcaption>
 </figure>
+
+ระบบจะแสดงหน้า QR Code ในการชำระเงิน
+
+<figure>
+    <img src="https://drive.google.com/uc?export=view&id=1rS9LR8p5vsyZi35X50RgVdnFZSVlJEbL" alt="" style="width: 70%; max-width: 300px;">
+    <figcaption></figcaption>
+</figure>
+
+หลังจากทำรายการชำระเงินแล้ว ระบบจะแสดงหน้าแจ้งผลการทำรายการ ผู้ใช้งานสามารถตรวจสอบสถานะคำสั่งซื้อได้โดยกดปุ่ม "ตรวจสอบสถานะสั่งซื้อ"
+
+<figure>
+    <img src="https://drive.google.com/uc?export=view&id=1o7MebZQIUkbwvMpscrxcyAKjAuika9OS" alt="" style="width: 70%; max-width: 300px;">
+    <figcaption></figcaption>
+</figure>
+
 
 
 
