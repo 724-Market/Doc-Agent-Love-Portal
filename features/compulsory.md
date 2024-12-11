@@ -6,7 +6,7 @@
 
 หรือคลิกปุ่มลัดแจ้งงาน พ.ร.บ. ตามที่แสดงในรูปภาพ.
 
-<figure><img src="https://drive.google.com/uc?export=view&#x26;id=1baF4g3b-x05Cuc3j8Q80RVmZTS6fXs28" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://drive.google.com/uc?export=view&#x26;id=1baF4g3b-x05Cuc3j8Q80RVmZTS6fXs28" alt="" style="width: 70%; max-width: 300px;"> <figcaption></figcaption> </figure>
 
 หลังจากเลือกแจ้งงาน พ.ร.บ. ระบบจะแสดงหน้าจอให้ทำรายการขั้นตอนการแจ้งงาน พ.ร.บ. จะแบ่งออกเป็น 5 ขั้นตอนดังนี้
 
@@ -17,39 +17,39 @@
 * ประเภทการใช้งาน : เลือกประเภทการใช้งานรถยนต์
 * ประเภทรถยนต์ : เลือกประเภทรถยนต์
 
-<figure><img src="https://drive.google.com/uc?export=view&#x26;id=1HjhrityG_bOa5GChuWJqggeSqYefpFMo" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://drive.google.com/uc?export=view&#x26;id=1HjhrityG_bOa5GChuWJqggeSqYefpFMo" alt="" style="width: 70%; max-width: 300px;"> <figcaption></figcaption> </figure>
 
 * ขนาดรถยนต์ : เลือกรหัสรถยนต์
 
-<figure><img src="https://drive.google.com/uc?export=view&#x26;id=1ORibNE_FByQBnaA7zbhAk2oGHQSRqnzk" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://drive.google.com/uc?export=view&#x26;id=1ORibNE_FByQBnaA7zbhAk2oGHQSRqnzk" alt="" style="width: 70%; max-width: 300px;"> <figcaption></figcaption> </figure>
 
 * ปีที่จดทะเบียน : เลือกปีที่จดทะเบียนให้ตรงกับเล่มรถ
 
-<figure><img src="https://drive.google.com/uc?export=view&#x26;id=1IiR0CtXJ9KfI6efRbhuq3Luawc0TZOu_" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://drive.google.com/uc?export=view&#x26;id=1IiR0CtXJ9KfI6efRbhuq3Luawc0TZOu_" alt="" style="width: 70%; max-width: 300px;"> <figcaption></figcaption> </figure>
 
 * ยี่ห้อรถ : เลือกยี่ห้อรถยนต์ หรือ กรอกชื่อยี่ห้อรถยนต์ระบบจะแสดงรายชื่อตามที่กรอกค้นหา
 
-<figure><img src="https://drive.google.com/uc?export=view&#x26;id=1tMofKMPQNh_fXZRAnmnoSanIxscNShJi" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://drive.google.com/uc?export=view&#x26;id=1tMofKMPQNh_fXZRAnmnoSanIxscNShJi" alt="" style="width: 70%; max-width: 300px;"> <figcaption></figcaption> </figure>
 
 * รุ่นรถ : เลือกรุ่นรถยนต์ หรือ กรอกชื่อรุ่นรถยนต์ระบบจะแสดงรายชื่อตามที่กรอกค้นหาภายใต้ยี่ห้อที่เลือก
 
-<figure><img src="https://drive.google.com/uc?export=view&#x26;id=1k5StQ0_r66Tx9pCvJKAl9dlATw4D9wWq" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://drive.google.com/uc?export=view&#x26;id=1k5StQ0_r66Tx9pCvJKAl9dlATw4D9wWq" alt="" style="width: 70%; max-width: 300px;"> <figcaption></figcaption> </figure>
 
 * รุ่นย่อย / ขนาดเครื่องยนต์ : เลือกรุ่นย่อยหรือกรอกชื่อรุ่นย่อย ระบบจะแสดงรายชื่อที่ตรงกับการค้นหาภายใต้รุ่นรถที่เลือก
 
 ขนาดเครื่องยนต์จะแสดงตามรุ่นย่อยที่เลือก โดยไม่ต้องกรอกข้อมูล หากไม่ทราบรุ่นย่อย สามารถเลือก "ไม่ทราบรุ่นย่อย" ได้.
 
-<figure><img src="https://drive.google.com/uc?export=view&#x26;id=1BqWUAN_P8wgDITVZenJ_n_tPtVVY-ec6" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://drive.google.com/uc?export=view&#x26;id=1BqWUAN_P8wgDITVZenJ_n_tPtVVY-ec6" alt="" style="width: 70%; max-width: 300px;"> <figcaption></figcaption> </figure>
 
 ผู้ใช้งานกรอกข้อมูล เลือกวันคุ้มครอง ดังนี้
 
 * คุ้มครอง 1 ปี : กดเลือกแค่วันเริ่มต้น ระบบจะเลือกวันที่สิ้นสุดให้แบบอัตโนมัติ
 
-<figure><img src="https://drive.google.com/uc?export=view&#x26;id=11-tkwCHCBy1xeFfxvzXW7sy8Vo9KIbSj" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://drive.google.com/uc?export=view&#x26;id=11-tkwCHCBy1xeFfxvzXW7sy8Vo9KIbSj" alt="" style="width: 70%; max-width: 300px;"> <figcaption></figcaption> </figure>
 
 * เลือกวันคุ้มครองเอง (ไม่น้อยกว่า 180 วัน) : กดเลือกวันเริ่มต้นและวันที่สิ้นสุดตามที่ต้องการ
 
-<figure><img src="https://drive.google.com/uc?export=view&#x26;id=186bS9dYnb8ZYxLoWXDT2ThVt2al1ORLv" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://drive.google.com/uc?export=view&#x26;id=186bS9dYnb8ZYxLoWXDT2ThVt2al1ORLv" alt="" style="width: 70%; max-width: 300px;"> <figcaption></figcaption> </figure>
 
 ***
 
@@ -59,7 +59,7 @@
 
 โดยการคลิกเลือกชื่อบริษัท กดปุ่ม "เลือกแพ็คเกจนี้" ตรงที่บริษัทที่ต้องการ
 
-<figure><img src="https://drive.google.com/uc?export=view&#x26;id=1S1I-E-5dF-y2tKQISQvkMdDV-Cil9CzG" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://drive.google.com/uc?export=view&#x26;id=1S1I-E-5dF-y2tKQISQvkMdDV-Cil9CzG" alt="" style="width: 70%; max-width: 300px;"> <figcaption></figcaption> </figure>
 
 หลังจากเลือกบริษัทที่ต้องการระบบจะเข้าสู่หน้าจอการทำงานขั้นตอนต่อไป
 
@@ -69,24 +69,24 @@
 
 หลังจากเลือกข้อมูลขั้นตอนที่ 2 ระบุข้อมูลแพ็คเกจเรียบร้อยแล้ว ระบบจะแสดงหน้าจอขั้นตอนที่ 3 ข้อมูลสั่งซื้อให้ทำรายการ
 
-<figure><img src="https://drive.google.com/uc?export=view&#x26;id=11nKRESGiDAV48orhK2cIwj6BYZy7eamL" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://drive.google.com/uc?export=view&#x26;id=11nKRESGiDAV48orhK2cIwj6BYZy7eamL" alt="" style="width: 70%; max-width: 300px;"> <figcaption></figcaption> </figure>
 
 ผู้ใช้งานกรอกข้อมูล รายละเอียดรถ ดังนี้
 
-<figure><img src="https://drive.google.com/uc?export=view&#x26;id=1o16Je0fU3IkaCpYTIl80Sf-NxoUsc0hX" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://drive.google.com/uc?export=view&#x26;id=1o16Je0fU3IkaCpYTIl80Sf-NxoUsc0hX" alt="" style="width: 70%; max-width: 300px;"> <figcaption></figcaption> </figure>
 
 #### รายละเอียดรถ
 
 * เลขทะเบียนรถ : กรอกเลขทะเบียนรถยนต์
 * จังหวัดของทะเบียนรถ : กดเลือกจังหวัดหรือกรอกคำค้นหาจังหวัดของทะเบียนรถยนต์
 
-<figure><img src="https://drive.google.com/uc?export=view&#x26;id=1dogn1vzwq_Pgr2fxmH5M_jhyTxQe1vml" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://drive.google.com/uc?export=view&#x26;id=1dogn1vzwq_Pgr2fxmH5M_jhyTxQe1vml" alt="" style="width: 70%; max-width: 300px;"> <figcaption></figcaption> </figure>
 
 * สีรถ : กดเลือกสีหรือกรอกคำค้นหาสีที่ต้องการ
 * เลขตัวถัง : กรอกเลขตัวถังตามที่ระบุในทะเบียนเล่มรถยนต์
 * เอกสารประกอบ (สำเนาเล่มรถยนต์) ในกรณีที่ผู้ใช้งานเลือกไม่ทราบรุ่นย่อยของรถยนต์ จำเป็นต้องอัพโหลดเอกสารสำเนาเล่มรถยนต์
 
-<figure><img src="https://drive.google.com/uc?export=view&#x26;id=1BPK6Yp9p_-e7tNKFOjjQ7WxoIUykPBs0" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://drive.google.com/uc?export=view&#x26;id=1BPK6Yp9p_-e7tNKFOjjQ7WxoIUykPBs0" alt="" style="width: 70%; max-width: 300px;"> <figcaption></figcaption> </figure>
 
 #### ข้อมูลผู้เอาประกันภัย
 
@@ -97,19 +97,19 @@
 
 **กรณีนิติบุคคล : สาขา**
 
-<figure><img src="https://drive.google.com/uc?export=view&#x26;id=1q3-emBOpTJfQb9nbdkuvv9pCQ17wGnWw" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://drive.google.com/uc?export=view&#x26;id=1q3-emBOpTJfQb9nbdkuvv9pCQ17wGnWw" alt="" style="width: 70%; max-width: 300px;"> <figcaption></figcaption> </figure>
 
 **กรณีนิติบุคคล : สำนักงานใหญ่**
 
-<figure><img src="https://drive.google.com/uc?export=view&#x26;id=1hfkMZqwS4RjeC8lRFVrq2nKJHbTtcqyf" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://drive.google.com/uc?export=view&#x26;id=1hfkMZqwS4RjeC8lRFVrq2nKJHbTtcqyf" alt="" style="width: 70%; max-width: 300px;"> <figcaption></figcaption> </figure>
 
 **กรณีบุคคลธรรมดา : คนต่างชาติ**
 
-<figure><img src="https://drive.google.com/uc?export=view&#x26;id=1zM8OvG1nmFf6ClSE0fFVF3unL5IGhj33" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://drive.google.com/uc?export=view&#x26;id=1zM8OvG1nmFf6ClSE0fFVF3unL5IGhj33" alt="" style="width: 70%; max-width: 300px;"> <figcaption></figcaption> </figure>
 
 **กรณีบุคคลธรรมดา : คนไทย**
 
-<figure><img src="https://drive.google.com/uc?export=view&#x26;id=1iajzpS2T34Lag9cK75saRxz7rLpuDi42" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://drive.google.com/uc?export=view&#x26;id=1iajzpS2T34Lag9cK75saRxz7rLpuDi42" alt="" style="width: 70%; max-width: 300px;"> <figcaption></figcaption> </figure>
 
 การกรอกข้อมูลผู้เอาประกันภัย มีขั้นตอนดังนี้
 
@@ -117,7 +117,7 @@
 * ชื่อ-นามสกุล : กรอกชื่อและนามสกุลของผู้เอาประกันภัย
 * วันเดือนปีเกิด : กดเลือกวันที่จากปฎิทิน
 
-<figure><img src="https://drive.google.com/uc?export=view&#x26;id=1MU74ccYj5yNisiNLLbOPYpfdacWB8_tU" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://drive.google.com/uc?export=view&#x26;id=1MU74ccYj5yNisiNLLbOPYpfdacWB8_tU" alt="" style="width: 70%; max-width: 300px;"> <figcaption></figcaption> </figure>
 
 * เลขบัตรประชาชน : กรอกเลขที่บัตรประชาชนของผู้เอาประกันภัย
 * โทรศัพท์ : กรอกเบอร์โทรศัพท์
@@ -129,15 +129,15 @@
 
 ✉️ รับเป็นไฟล์ PDF: ระบบจะแสดงอีเมลที่กรอกในขั้นตอนข้อมูลผู้เอาประกันมาแสดง สามารถเปลี่ยนแปลงอีเมลที่ต้องการรับใหม่ได้
 
-<figure><img src="https://drive.google.com/uc?export=view&#x26;id=1R1K-X5lofR99SI0Y4z2GgOvljojKfKYT" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://drive.google.com/uc?export=view&#x26;id=1R1K-X5lofR99SI0Y4z2GgOvljojKfKYT" alt="" style="width: 70%; max-width: 300px;"> <figcaption></figcaption> </figure>
 
 📄 พิมพ์ลงกระดาษมัดจำ: ในกรณีที่ต้องการพิมพ์ลงกระดาษมัดจำ ผู้ใช้งานจำเป็นต้องมีกระดาษของบริษัทนั้นก่อน สามารถทำการแลกกระดาษก่อนได้ที่
 
-<figure><img src="https://drive.google.com/uc?export=view&#x26;id=1d3ltuTPV7LyWHuzBYEiKEVgM7NxSZgQp" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://drive.google.com/uc?export=view&#x26;id=1d3ltuTPV7LyWHuzBYEiKEVgM7NxSZgQp" alt="" style="width: 70%; max-width: 300px;"> <figcaption></figcaption> </figure>
 
 📮 จัดส่งตัวจริง: การจัดส่งกรมธรรม์ตัวจริง จะส่งไปตามที่อยู่ของผู้เอาประกันภัย
 
-<figure><img src="https://drive.google.com/uc?export=view&#x26;id=1uTn0ovOn_vbiYLEN3-o6RT1qBfQmy_Vx" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://drive.google.com/uc?export=view&#x26;id=1uTn0ovOn_vbiYLEN3-o6RT1qBfQmy_Vx" alt="" style="width: 70%; max-width: 300px;"> <figcaption></figcaption> </figure>
 
 การจัดส่งกรมธรรม์ตัวจริง ระบบจะจัดส่งไปยังที่อยู่ของผู้เอาประกันที่ได้ระบุไว้ในขั้นตอนการกรอกข้อมูลผู้เอาประกันภัย
 
@@ -147,19 +147,19 @@
 * กรอกข้อมูลที่อยู่ใหม่ให้ครบถ้วน
 * ตรวจสอบความถูกต้องของข้อมูลที่อยู่ใหม่ ข้อมูลที่อยู่ใหม่จะถูกใช้สำหรับการจัดส่งกรมธรรม์ตัวจริง
 
-<figure><img src="https://drive.google.com/uc?export=view&#x26;id=1txA9qTbZKjJnz7qMGVorHwST5QnWyQUy" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://drive.google.com/uc?export=view&#x26;id=1txA9qTbZKjJnz7qMGVorHwST5QnWyQUy" alt="" style="width: 70%; max-width: 300px;"> <figcaption></figcaption> </figure>
 
 #### ใบกำกับภาษี
 
 ในกรณีที่ผู้ใช้งานต้องการขอใบกำกับภาษีสามารถกด "ขอใบกำกับภาษี" ได้ ระบบจะออกในนามผู้เอาประกันตามข้อมูลที่กรอกไว้ก่อนหน้า
 
-<figure><img src="https://drive.google.com/uc?export=view&#x26;id=1EI8a1Be-k4hvyaPKPbWGxnOBu1kFR2lB" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://drive.google.com/uc?export=view&#x26;id=1EI8a1Be-k4hvyaPKPbWGxnOBu1kFR2lB" alt="" style="width: 70%; max-width: 300px;"> <figcaption></figcaption> </figure>
 
 หากผู้ใช้งานต้องการ "แก้ไขใบกำกับภาษี" สามารถกดที่แท็บ "แก้ไขใบกำกับภาษี" และกรอกข้อมูลที่อยู่ใหม่ได้ โดยทำตามขั้นตอนดังนี้:
 
 **บุคคลธรรมดา : คนไทย**
 
-<figure><img src="https://drive.google.com/uc?export=view&#x26;id=1hB7IgjMslQ0BC6fm-vZbhezo8eCxDQ9Z" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://drive.google.com/uc?export=view&#x26;id=1hB7IgjMslQ0BC6fm-vZbhezo8eCxDQ9Z" alt="" style="width: 70%; max-width: 300px;"> <figcaption></figcaption> </figure>
 
 การกรอกข้อมูลชื่อผู้ออกใบกำกับภาษี มีขั้นตอนดังนี้
 
@@ -199,10 +199,9 @@
 </details>
 
 
-
 **นิติบุคคล : สำนักงานใหญ่**
 
-<figure><img src="https://drive.google.com/uc?export=view&#x26;id=1d_ou43xhrBEZvW0j90HLVvK2Sin88gPC" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://drive.google.com/uc?export=view&#x26;id=1d_ou43xhrBEZvW0j90HLVvK2Sin88gPC" alt="" style="width: 70%; max-width: 300px;"> <figcaption></figcaption> </figure>
 
 การกรอกข้อมูลชื่อผู้ออกใบกำกับภาษี มีขั้นตอนดังนี้
 
@@ -249,11 +248,11 @@
 
 **จัดพร้อมกรมธรรม์**
 
-<figure><img src="https://drive.google.com/uc?export=view&#x26;id=1MqNW5m4D7IqRN0UFMFZZnM3zDzQCgQvm" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://drive.google.com/uc?export=view&#x26;id=1MqNW5m4D7IqRN0UFMFZZnM3zDzQCgQvm" alt="" style="width: 70%; max-width: 300px;"> <figcaption></figcaption> </figure>
 
 **จัดส่งแยก**
 
-<figure><img src="https://drive.google.com/uc?export=view&#x26;id=1eBqz6Fm5VWfdhVIRqdXlPZpc_a0z0VIm" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://drive.google.com/uc?export=view&#x26;id=1eBqz6Fm5VWfdhVIRqdXlPZpc_a0z0VIm" alt="" style="width: 70%; max-width: 300px;"> <figcaption></figcaption> </figure>
 
 ***
 
@@ -273,15 +272,15 @@
 
 **แสกน QR : หักส่วนลดเต็มจำนวน**
 
-<figure><img src="https://drive.google.com/uc?export=view&#x26;id=13N-oeUVsU5qFpDrrLhfeF3Nb_e2qqQiM" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://drive.google.com/uc?export=view&#x26;id=13N-oeUVsU5qFpDrrLhfeF3Nb_e2qqQiM" alt="" style="width: 70%; max-width: 300px;"> <figcaption></figcaption> </figure>
 
 **แสกน QR : หักส่วนลดบางส่วน** ผู้ใช้งานกดลากเพื่อเลือกจำนวนส่วนลดที่ต้องการ
 
-<figure><img src="https://drive.google.com/uc?export=view&#x26;id=1A8L-CXxaCikLLJqCM6Zj1QHUkLu1bJPG" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://drive.google.com/uc?export=view&#x26;id=1A8L-CXxaCikLLJqCM6Zj1QHUkLu1bJPG" alt="" style="width: 70%; max-width: 300px;"> <figcaption></figcaption> </figure>
 
 **แสกน QR : ชำระเบี้ยเต็มจำนวน**
 
-<figure><img src="https://drive.google.com/uc?export=view&#x26;id=1XRjk8zxe9zBJAvGegM5qMVG3k8fBpHoa" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://drive.google.com/uc?export=view&#x26;id=1XRjk8zxe9zBJAvGegM5qMVG3k8fBpHoa" alt="" style="width: 70%; max-width: 300px;"> <figcaption></figcaption> </figure>
 
 หลังจากที่ผู้ใช้งานได้เลือกช่องทางการชำระเงินและช่องทางการใช้ส่วนลดเรียบร้อยแล้ว ให้ผู้ใช้งานกดปุ่ม "ไปต่อ" บนหน้าจอ
 
@@ -291,19 +290,19 @@
 
 หลังจากเลือกข้อมูลขั้นตอนที่ 4 วิธีชำระเงินเรียบร้อยแล้ว ระบบจะแสดงหน้าจอขั้นตอนที่ 5 เลือกสรุปรายการให้ทำรายการ
 
-<figure><img src="https://drive.google.com/uc?export=view&#x26;id=19mm-x6RwNLUOMO68NwHGk6RFqf8BOp36" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://drive.google.com/uc?export=view&#x26;id=19mm-x6RwNLUOMO68NwHGk6RFqf8BOp36" alt="" style="width: 70%; max-width: 300px;"> <figcaption></figcaption> </figure>
 
 หากผู้ใช้งานต้องการแก้ไขข้อมูล สามารถกดปุ่ม "🖊️ แก้ไขข้อมูล" ในส่วนที่ต้องการ ระบบจะนำกลับไปยังหน้าจอสำหรับแก้ไขข้อมูลนั้น ๆ ให้ทำรายการ
 
-<figure><img src="https://drive.google.com/uc?export=view&#x26;id=1E12IOCW_4q4vB_r7b5a9r5_L60jUS_RI" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://drive.google.com/uc?export=view&#x26;id=1E12IOCW_4q4vB_r7b5a9r5_L60jUS_RI" alt="" style="width: 70%; max-width: 300px;"> <figcaption></figcaption> </figure>
 
 หากผู้ใช้งานไม่ต้องการแก้ไขข้อมูล สามารถดำเนินการต่อได้โดยกด "ยอมรับเงื่อนไข" และกดปุ่ม "ยืนยันการชำระเงิน" ทันที
 
-<figure><img src="https://drive.google.com/uc?export=view&#x26;id=1b1uOzIvdYnObctCtZNGAw-4EoqVNEisX" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://drive.google.com/uc?export=view&#x26;id=1b1uOzIvdYnObctCtZNGAw-4EoqVNEisX" alt="" style="width: 70%; max-width: 300px;"> <figcaption></figcaption> </figure>
 
 ระบบจะแสดงหน้า QR Code ในการชำระเงิน
 
-<figure><img src="https://drive.google.com/uc?export=view&#x26;id=1rS9LR8p5vsyZi35X50RgVdnFZSVlJEbL" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://drive.google.com/uc?export=view&#x26;id=1rS9LR8p5vsyZi35X50RgVdnFZSVlJEbL" alt="" style="width: 70%; max-width: 300px;"> <figcaption></figcaption> </figure>
 
 หน้าจอแสดง QR Code สำหรับการชำระเงิน
 
@@ -314,7 +313,7 @@
 
 หลังจากทำรายการชำระเงินแล้ว ระบบจะแสดงหน้าแจ้งผลการทำรายการสั่งซื้อและชำระเงินเรียบร้อยแล้ว
 
-<figure><img src="https://drive.google.com/uc?export=view&#x26;id=1o7MebZQIUkbwvMpscrxcyAKjAuika9OS" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://drive.google.com/uc?export=view&#x26;id=1o7MebZQIUkbwvMpscrxcyAKjAuika9OS" alt="" style="width: 70%; max-width: 300px;"> <figcaption></figcaption> </figure>
 
 ผู้ใช้งานสามารถตรวจสอบสถานะคำสั่งซื้อได้โดยกดปุ่ม "ตรวจสอบสถานะสั่งซื้อ"
 
@@ -327,6 +326,6 @@
 * บางบริษัทอาจใช้เวลา 3-7 วันทำการ
 * หากเลือกจัดส่งกรมธรรม์ตัวจริง จะได้รับภายใน 7 วันทำการหลังออกกรมธรรม์
 
-<figure><img src="https://drive.google.com/uc?export=view&#x26;id=1kuk4fRNr0507UJoUhA_dwFXi7jGWpzkk" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://drive.google.com/uc?export=view&#x26;id=1kuk4fRNr0507UJoUhA_dwFXi7jGWpzkk" alt="" style="width: 70%; max-width: 300px;"> <figcaption></figcaption> </figure>
 
 ***
