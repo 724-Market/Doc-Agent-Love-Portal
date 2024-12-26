@@ -35,12 +35,23 @@ layout:
 
 ## ขั้นตอนการเติมเงิน
 
+หลังจากลงชื่อเข้าใช้งานระบบ ผู้ใช้งานกดสัญลักษณ์กระเป๋าเงินที่มุมด้านขวา เพื่อเข้าสู่ส่วนการเติมเงิน หลังจากนั้นระบบจะแสดงเมนูเพิ่มเติมให้ผู้ใช้งานเลือกที่ปุ่ม "เติมเงิน" 
+
 <figure>
     <img src="https://drive.google.com/uc?export=view&id=1YAZ48eGw1e4dj37DOG8BRNcPsKRHjjGH" alt="" style="width: 70%; max-width: 300px;">
     <figcaption></figcaption>
 </figure>
 
+ระบบจะแสดงหน้าต่างเติมเงินให้ทำรายการ
 
+<figure>
+    <img src="https://drive.google.com/uc?export=view&id=1A1FvyGjywXajFS-qc9L8DH8TvQeuFaZW" alt="" style="width: 70%; max-width: 300px;">
+    <figcaption></figcaption>
+</figure>
+
+- กรอกจำนวนเงินที่ต้องการเติม ขั้นต่ำ 100 บาท สูงสุดไม่เกิน 100,000 บาท
+- กดยอมรับเงื่อนไขและข้อตกลงในการทำรายการ
+- กดปุ่ม "ยืนยันการเติมเงิน"
 
 
 
