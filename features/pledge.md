@@ -51,12 +51,24 @@ layout:
     <figcaption></figcaption>
 </figure>
 
-- กรอกจำนวนเงินที่ต้องการเติม ขั้นต่ำ 100 บาท สูงสุดไม่เกิน 100,000 บาท
-- กดยอมรับเงื่อนไขและข้อตกลงในการทำรายการ
-- กดปุ่ม "ยืนยันการเติมเงิน"
+**วิธีการเติมเงิน**
+- กรอกจำนวนเงิน: ขั้นต่ำ 100 บาท สูงสุด 100,000 บาท
+- ยอมรับเงื่อนไข: กดยอมรับข้อตกลงการทำรายการ
+- ยืนยันการเติมเงิน: กด "ยืนยันการเติมเงิน" เพื่อสร้าง QR Code
+- ชำระเงิน:
+   - สแกน QR Code ด้วยแอปพลิเคชันธนาคาร
+   - หากใช้สมาร์ทโฟน ให้บันทึก QR Code และอัปโหลดในแอปธนาคารเพื่อชำระ
 
+<figure>
+    <img src="https://drive.google.com/uc?export=view&id=1512sF_MbaC55SrT4Vk8cLoni8GTjDtvN" alt="" style="width: 70%; max-width: 300px;">
+    <figcaption></figcaption>
+</figure>
 
+- หลังจากชำระเงินสำเร็จ ระบบจะแสดงหน้าต่างยืนยันการทำรายการเติมเงินที่สำเร็จสมบูรณ์ ผู้ใช้งานสามารถตรวจสอบยอดเงินที่เติมได้ที่กระเป๋าเงิน
 
-
+<figure>
+    <img src="https://drive.google.com/uc?export=view&id=1FznfMulSwQoNT-atIgU99wagPdVbGyAm" alt="" style="width: 70%; max-width: 300px;">
+    <figcaption></figcaption>
+</figure>
 
 
