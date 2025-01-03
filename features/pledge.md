@@ -71,4 +71,10 @@ layout:
     <figcaption></figcaption>
 </figure>
 
+ผู้ใช้งานกดที่สัญลักษณ์กระเป๋าเงิน เพื่อตรวจสอบยอดเงินในกระเป๋าได้ทันที
+
+<figure>
+    <img src="https://drive.google.com/uc?export=view&id=1pXfJYN1F4tXzkZvP4L3syCUjENpGa1vn" alt="" style="width: 70%; max-width: 300px;">
+    <figcaption></figcaption>
+</figure>
 
