@@ -25,3 +25,9 @@ layout:
 ***
 ### ขั้นตอนแลกกระดาษ
 
+หลังจากเลือกเมนูการแลกกระดาษ ระบบจะเข้าสู่หน้าจอการทำงาน
+
+<figure>
+    <img src="https://drive.google.com/uc?export=view&id=1kCHqDChCz1QeLW1jW2RBokdPJQPxDydr" alt="" style="width: 60%; max-width: 300px;">
+    <figcaption></figcaption>
+</figure>
