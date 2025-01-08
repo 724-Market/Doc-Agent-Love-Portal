@@ -34,10 +34,7 @@ layout:
 
 หลังจากเลือกเมนูการแลกกระดาษ ระบบจะเข้าสู่หน้าจอการทำงาน
 
-<figure>
-    <img src="https://drive.google.com/uc?export=view&id=1XAzzR3tDpn0_QtSSV-f8St8mBPPy-CFh" alt="" style="width: 70%; max-width: 300px;">
-    <figcaption></figcaption>
-</figure>
+<figure><img src="https://drive.google.com/uc?export=view&id=1XAzzR3tDpn0_QtSSV-f8St8mBPPy-CFh" alt="" style="width: 70%; max-width: 300px;"><figcaption><p>ภาพรวมขั้นตอนการทำงาน</p></figcaption></figure>
 
 ### วิธีการรับกระดาษ
 
