@@ -35,7 +35,7 @@ layout:
 หลังจากเลือกเมนูการแลกกระดาษ ระบบจะเข้าสู่หน้าจอการทำงาน
 
 <figure>
-    <img src="https://drive.google.com/uc?export=view&id=1aySsz8ISZFEVq_lDTU-Up5s4G__c0NEq" alt="" style="width: 70%; max-width: 300px;">
+    <img src="https://drive.google.com/uc?export=view&id=1XAzzR3tDpn0_QtSSV-f8St8mBPPy-CFh" alt="" style="width: 70%; max-width: 300px;">
     <figcaption></figcaption>
 </figure>
 
