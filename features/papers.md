@@ -93,6 +93,13 @@ layout:
 
 ### เลือกกระดาษ
 
+<figure>
+    <img src="https://drive.google.com/uc?export=view&id=1xKuSguDoLFPJ-_HMNOPOttdqCDEmaTza" alt="" style="width: 70%; max-width: 300px;">
+    <figcaption>
+        <p>ภาพรวมขั้นตอนการทำงานเลือกกระดาษ</p>
+    </figcaption>
+</figure>
+
 ***
 
 ### รายการที่เลือก
