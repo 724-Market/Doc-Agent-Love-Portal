@@ -94,11 +94,12 @@ layout:
 ### เลือกกระดาษ
 
 <figure>
-    <img src="https://drive.google.com/uc?export=view&id=1xKuSguDoLFPJ-_HMNOPOttdqCDEmaTza" alt="" style="width: 70%; max-width: 300px;">
+    <img src="https://drive.google.com/uc?export=view&id=1tp7Qy-pXyQC4DD4bD6H7lnmuuRQBHQv5" alt="" style="width: 70%; max-width: 300px;">
     <figcaption>
-        <p>ภาพรวมขั้นตอนการทำงานเลือกกระดาษ</p>
+        <p>ภาพรวมขั้นตอนการเลือกกระดาษ</p>
     </figcaption>
 </figure>
+
 
 ***
 
