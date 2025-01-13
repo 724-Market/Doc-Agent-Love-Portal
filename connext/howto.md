@@ -63,6 +63,21 @@ layout:
     </figcaption>
 </figure>
 
+### ขั้นตอนยืนยันการเชื่อมต่อ
+
+หลังจากทำการเชื่อมต่อเรียบร้อยแล้ว สมาชิกจำเป็นต้อง ยืนยันการเชื่อมต่อ Line Connext เพื่อให้กระบวนการเสร็จสมบูรณ์ 
+
+<figure>
+    <img src="https://drive.google.com/uc?export=view&id=1zQwre1fmS4Gjklvkj7zxDx7Eb55kKCaJ" alt="" style="width: 70%; max-width: 300px;">
+    <figcaption>
+        <p>ยืนยันตัวตนด้วย Agent Love</p>
+    </figcaption>
+</figure>
+
+   - กดเมนู เชื่อมต่อ 724 CONNEXT
+   - กรอกรหัสสมาชิก และ รหัสผ่าน ของระบบ 724 Agent 
+   - ทำตามขั้นตอนที่ปรากฏบนหน้าจอเพื่อดำเนินการยืนยันการเชื่อมต่อ
+
 ### ตรวจสอบสถานะ
    - หลังจากเชื่อมต่อสำเร็จ คุณจะสามารถใช้งานฟีเจอร์ของ 724 Connext ผ่าน Line OA ได้ทันที
 
