@@ -14,6 +14,11 @@
 * [การเพิ่มผู้ช่วย](features/users.md)
 * [เงินมัดจำ](features/pledge.md)
 
+## 724 Connext <a href="#connext" id="connext"></a>
+
+* [ข้อดีของ 724 Connext](connext/introduction.md)
+* [ขั้นตอนการเชื่อมต่อ](connext/howto.md)
+
 ## อื่นๆ <a href="#others" id="others"></a>
 
 * [คำถามที่พบบ่อย](others/faqs.md)
