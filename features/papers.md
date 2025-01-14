@@ -126,6 +126,15 @@ layout:
 
 ### ยืนยันการแลกกระดาษ
 
+<figure>
+    <img src="https://drive.google.com/uc?export=view&id=1yqQIGIl0gf285bCdDQ5mOtdunKZHS25f" alt="" style="width: 70%; max-width: 300px;">
+    <figcaption>
+        <p>ขั้นตอนยืนยันการแลกกระดาษ</p>
+    </figcaption>
+</figure>
+
+เมื่อดำเนินการเสร็จสิ้น ระบบจะแสดงหน้าจอแจ้งเตือน ผลการทำรายการสำเร็จ เพื่อยืนยันว่าการทำรายการได้ดำเนินการอย่างถูกต้องและสมบูรณ์
+
 ***
 
 ## ประวัติการแลกกระดาษ
