@@ -137,6 +137,19 @@ layout:
 
 ***
 
+### ยอดเงินไม่เพียงพอ
+
+หากยอดเงินในกระเป๋าไม่เพียงพอ ระบบขึ้นข้อความแจ้งเตือน ให้ผู้ใช้งานทำการเติมเงินก่อนการและกระดาษอีกครั้ง วิธีการเติมเงิน
+
+<figure>
+    <img src="https://drive.google.com/uc?export=view&id=1qc0GWa9oVjklEpx7Ck_6a1x5-kixnfBW" alt="" style="width: 70%; max-width: 300px;">
+    <figcaption>
+        <p>ยอดเงินในกระเป๋าไม่เพียงพอ</p>
+    </figcaption>
+</figure>
+
+***
+
 ## ประวัติการแลกกระดาษ
 
 
