@@ -139,7 +139,7 @@ layout:
 
 ### ยอดเงินไม่เพียงพอ
 
-หากยอดเงินในกระเป๋าไม่เพียงพอ ระบบขึ้นข้อความแจ้งเตือน ให้ผู้ใช้งานทำการเติมเงินก่อนการและกระดาษอีกครั้ง วิธีการเติมเงิน [https://docs.agentlove.club/agent-love-portal/features/pledge]
+หากยอดเงินในกระเป๋าไม่เพียงพอ ระบบจะขึ้นข้อความแจ้งเตือน ให้ผู้ใช้งานทำการเติมเงินก่อนค่อยและกระดาษใหม่อีกครั้ง ขั้นตอน [เงินมัดจำ](https://docs.agentlove.club/agent-love-portal/features/pledge)
 
 <figure>
     <img src="https://drive.google.com/uc?export=view&id=1qc0GWa9oVjklEpx7Ck_6a1x5-kixnfBW" alt="" style="width: 70%; max-width: 300px;">
