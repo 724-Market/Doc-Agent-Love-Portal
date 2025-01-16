@@ -112,7 +112,7 @@ layout:
 ### รายการที่เลือก
 
 <figure>
-    <img src="https://drive.google.com/uc?export=view&id=16ZbveyvdTPOelD4GAgrBXEylWIIz-GNS" alt="" style="width: 50%; max-width: 300px;">
+    <img src="https://drive.google.com/uc?export=view&id=16ZbveyvdTPOelD4GAgrBXEylWIIz-GNS" alt="" style="width: 40%; max-width: 300px;">
     <figcaption>
         <p>รายการที่เลือก</p>
     </figcaption>
