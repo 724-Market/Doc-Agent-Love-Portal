@@ -13,6 +13,7 @@
 * [การแลกกระดาษ](features/papers.md)
 * [การเพิ่มผู้ช่วย](features/users.md)
 * [เงินมัดจำ](features/pledge.md)
+* [การแจ้งเตือน](features/notification.md)
 
 ## 724 Connext <a href="#connext" id="connext"></a>
 
