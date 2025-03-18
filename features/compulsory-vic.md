@@ -146,6 +146,14 @@
 
 ### 6. ที่อยู่ผู้เอาประกันภัย
 
+<figure>
+    <img src="https://drive.google.com/uc?export=view&id=1MsolXftAQVDhXau28QDfbP_QPNQQGjBB" alt="" style="width: 70%; max-width: 300px;">
+    <figcaption>
+        <p>ขั้นตอนการกรอกข้อมูลที่อยู่ผู้เอาประกัน</p>
+    </figcaption>
+</figure>
+
+
 ***
 
 ### 7. สรุปรายการ
