@@ -180,8 +180,7 @@
 
 ### 7. สรุปรายการ
 
-หลังจากกรอกข้อมูลทุกอย่างเรียบร้อยแล้ว ระบบจะแสดงหน้าจอสรุปรายการ ให้ตรวจสอบข้อมูลให้ถูกต้อง
-
+หลังจากกรอกข้อมูลทุกอย่างเรียบร้อยแล้ว ระบบจะแสดงหน้าจอสรุปรายการ ให้ตรวจสอบข้อมูลให้ถูกต้อง กดปุ่ม ‘ทำรายการ‘ เพื่อทำรายการ
 <figure>
     <img src="https://drive.google.com/uc?export=view&id=1RWQlE54T3aEqaqvJE4r1x4yRKCAlgdVU" alt="" style="width: 70%; max-width: 300px;">
     <figcaption>
@@ -189,12 +188,12 @@
     </figcaption>
 </figure>
 
-หลังจากดูสรุปรายการเรียบร้อยแล้ว กดปุ่ม ‘ทำรายการ‘ ระบบจะทำรายการ และผู้ใช้งานรอกรมธรรม์จากบริษัทประกันภัย
+หลังจากกดปุ่มทำรายการ ระบบจะแจ้งสถานะเป็น ‘รอกรมธรรม์’ โดยผู้ใช้งานต้องรอไฟล์กรมธรรม์จากบริษัทประกันภัย
 
 <figure>
     <img src="https://drive.google.com/uc?export=view&id=1UHBjrLYUdVmEMNB9SQ8nUi6SSfUJm-UC" alt="" style="width: 70%; max-width: 300px;">
     <figcaption>
-        <p>ขั้นตอนรอกรมธรรม์จากบริษัทประกันภัย</p>
+        <p>สถานะรอกรมธรรม์</p>
     </figcaption>
 </figure>
 
@@ -203,7 +202,7 @@
 <figure>
     <img src="https://drive.google.com/uc?export=view&id=11vTfkfJW63mt3BaVDml06_5HiGNqUeaI" alt="" style="width: 70%; max-width: 300px;">
     <figcaption>
-        <p>ขั้นตอนดาวน์โหลดกรมธรรม์</p>
+        <p>สถานะสำเร็จ</p>
     </figcaption>
 </figure>
 
