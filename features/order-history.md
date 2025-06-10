@@ -66,6 +66,13 @@ layout:
     </figcaption>
 </figure>
 
+<figure>
+    <img src="https://drive.google.com/uc?export=view&id=1RtfFhkIHnwEVKa82w0Na9quXUsRfLlNz" alt="" style="width: 70%; max-width: 300px;">
+    <figcaption>
+        <p>กล่องสรุปจำนวนสถานะงาน</p>
+    </figcaption>
+</figure>
+
 แสดงจำนวนรายการที่อยู่ในแต่ละสถานะ
 
 - แบบร่าง: งานที่ยังไม่ส่งแจ้ง สามารถกลับไปแก้ไขรายการได้ต่อ
