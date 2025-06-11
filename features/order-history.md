@@ -83,7 +83,12 @@ layout:
 - รูปแบบการทำรายการ
 - ดูรายละเอียด: ตรวจสอบติดตามสถานะ
 
-
+<figure>
+    <img src="https://drive.google.com/uc?export=view&id=16Zrm1R__-rINsJehZEyqmHjfCorqmxMz" alt="" style="width: 70%; max-width: 300px;">
+    <figcaption>
+        <p>หน้าจอติดตามสถานะ</p>
+    </figcaption>
+</figure>
 
 - ดาวน์โหลด: ดาวน์โหลดกรมธรรม์ พ.ร.บ. (เมื่อสถานะเป็น "สำเร็จ")
 
