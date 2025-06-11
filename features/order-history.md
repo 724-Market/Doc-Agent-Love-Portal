@@ -89,7 +89,7 @@ layout:
 - ดูรายละเอียด: ตรวจสอบติดตามสถานะ
 
 <figure>
-    <img src="https://drive.google.com/uc?export=view&id=16pW8FaiQxlbKSFrk-s-eIZoXyJFw7IMX" alt="" style="width: 70%; max-width: 300px;">
+    <img src="https://drive.google.com/uc?export=view&id=16pW8FaiQxlbKSFrk-s-eIZoXyJFw7IMX" alt="" style="width: 70%; max-width: 200px;">
     <figcaption>
         <p>หน้าจอขั้นตอนติดตามสถานะ</p>
     </figcaption>
@@ -98,7 +98,7 @@ layout:
 - ดาวน์โหลด: ดาวน์โหลดกรมธรรม์ พ.ร.บ. (เมื่อสถานะเป็น "สำเร็จ")
 
 <figure>
-    <img src="https://drive.google.com/uc?export=view&id=1RtfFhkIHnwEVKa82w0Na9quXUsRfLlNz" alt="" style="width: 70%; max-width: 300px;">
+    <img src="https://drive.google.com/uc?export=view&id=1RtfFhkIHnwEVKa82w0Na9quXUsRfLlNz" alt="" style="width: 70%; max-width: 200px;">
     <figcaption>
         <p>หน้าจอขั้นตอนดาวน์โหลดกรมธรรม์</p>
     </figcaption>
