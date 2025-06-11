@@ -84,7 +84,7 @@ layout:
 - ดูรายละเอียด: ตรวจสอบติดตามสถานะ
 
 <figure>
-    <img src="https://drive.google.com/uc?export=view&id=1Nl0_lk9gQQIA-ozRjerfZvevDCeYYmsu" alt="" style="width: 100%; max-width: 400px;">
+    <img src="https://drive.google.com/uc?export=view&id=1Nl0_lk9gQQIA-ozRjerfZvevDCeYYmsu" alt="" style="width: 70%; max-width: 300px;">
     <figcaption>
         <p>หน้าจอติดตามสถานะ</p>
     </figcaption>
