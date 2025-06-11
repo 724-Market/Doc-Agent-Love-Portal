@@ -84,16 +84,9 @@ layout:
 - ดูรายละเอียด: ตรวจสอบติดตามสถานะ
 
 <figure>
-    <img src="https://drive.google.com/uc?export=view&id=1Nl0_lk9gQQIA-ozRjerfZvevDCeYYmsu" alt="" style="width: 70%; max-width: 300px;">
+    <img src="https://drive.google.com/uc?export=view&id=181EG5Uuxq6aW09CybinIDagQKjgXIb5p" alt="" style="width: 80%; max-width: 300px;">
     <figcaption>
         <p>หน้าจอติดตามสถานะ</p>
-    </figcaption>
-</figure>
-
-<figure>
-    <img src="https://drive.google.com/uc?export=view&id=181EG5Uuxq6aW09CybinIDagQKjgXIb5p" alt="" style="width: 70%; max-width: 300px;">
-    <figcaption>
-        <p>ฟอร์มกรอกข้อมูลธนาคารสำหรับรับค่าสายงาน</p>
     </figcaption>
 </figure>
 
