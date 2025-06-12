@@ -27,4 +27,17 @@ layout:
 
 > 
 > หมายเหตุ: เจ้าของบัญชีสามารถจัดการ แก้ไข หรือลบผู้ช่วยได้ทุกเมื่อผ่านเมนูนี้
-> 
+>
+
+สามารถกดจากหน้าหลักของระบบ เพื่อเข้าสู่หน้าจอเมนูได้ทันที
+
+<figure>
+    <img src="https://drive.google.com/uc?export=view&id=1MfYKXxVfieM9-VIGfu1EIHYROqo4kR77" alt="" style="width: 70%; max-width: 300px;">
+    <figcaption>
+        <p>หน้าหลักของระบบ</p>
+    </figcaption>
+</figure>
+
+
+
+
