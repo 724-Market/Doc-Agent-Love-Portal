@@ -59,7 +59,12 @@ layout:
 
 ## 📄 สรุปสถานะงานทั้งหมด
 
-
+<figure>
+    <img src="https://drive.google.com/uc?export=view&id=1Sd2aHgVwIgjFP53L7Xus3j8grpnh3HoF" alt="" style="width: 70%; max-width: 300px;">
+    <figcaption>
+        <p>หน้าจอสรุปงานทั้งหมด</p>
+    </figcaption>
+</figure>
 
 แสดงจำนวนรายการที่อยู่ในแต่ละสถานะ
 
