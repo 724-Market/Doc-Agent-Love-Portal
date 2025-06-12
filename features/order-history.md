@@ -84,26 +84,11 @@ layout:
 - ดูรายละเอียด: ตรวจสอบติดตามสถานะ
 
 <figure>
-    <img src="https://drive.google.com/uc?export=view&id=181EG5Uuxq6aW09CybinIDagQKjgXIb5p" alt="" style="width: 70%; max-width: 300px;">
+    <img src="https://drive.google.com/uc?export=view&id=1_SX7NudgJez8l7PbhuvaOiMXNQogWcAx" alt="" style="width: 70%; max-width: 300px;">
     <figcaption>
         <p>หน้าจอติดตามสถานะ</p>
     </figcaption>
 </figure>
-
-<figure>
-    <img src="https://drive.google.com/uc?export=view&id=15EN-AqVSoX60ke9qOkqS9fstDgOD0Imr" alt="" style="width: 70%; max-width: 300px;">
-    <figcaption>
-        <p>ฟอร์มกรอกข้อมูลธนาคารสำหรับรับค่าสายงาน</p>
-    </figcaption>
-</figure>
-
-<figure>
-    <img src="https://drive.google.com/uc?export=view&id=1_SX7NudgJez8l7PbhuvaOiMXNQogWcAx" alt="" style="width: 70%; max-width: 300px;">
-    <figcaption>
-        <p>ฟอร์มกรอกข้อมูลธนาคารสำหรับรับค่าสายงาน2</p>
-    </figcaption>
-</figure>
-
 
 - ดาวน์โหลด: ดาวน์โหลดกรมธรรม์ พ.ร.บ. (เมื่อสถานะเป็น "สำเร็จ")
 
