@@ -97,6 +97,14 @@ layout:
     </figcaption>
 </figure>
 
+<figure>
+    <img src="https://drive.google.com/uc?export=view&id=1_SX7NudgJez8l7PbhuvaOiMXNQogWcAx" alt="" style="width: 70%; max-width: 300px;">
+    <figcaption>
+        <p>ฟอร์มกรอกข้อมูลธนาคารสำหรับรับค่าสายงาน2</p>
+    </figcaption>
+</figure>
+
+
 - ดาวน์โหลด: ดาวน์โหลดกรมธรรม์ พ.ร.บ. (เมื่อสถานะเป็น "สำเร็จ")
 
 
