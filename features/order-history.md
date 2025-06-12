@@ -91,7 +91,7 @@ layout:
 </figure>
 
 <figure>
-    <img src="https://drive.google.com/uc?export=view&id=1s5de_gQ7bvRdMsPv9Wqu8LRt36oWRJMO" alt="" style="width: 70%; max-width: 300px;">
+    <img src="https://drive.google.com/uc?export=view&id=15EN-AqVSoX60ke9qOkqS9fstDgOD0Imr" alt="" style="width: 70%; max-width: 300px;">
     <figcaption>
         <p>ฟอร์มกรอกข้อมูลธนาคารสำหรับรับค่าสายงาน</p>
     </figcaption>
