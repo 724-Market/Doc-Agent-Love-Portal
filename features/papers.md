@@ -28,8 +28,10 @@ layout:
 หลังจากลงชื่อเข้าสู่ระบบ ผู้ใช้งานจะเข้าสู่หน้าหลักที่มีเมนูให้เลือกใช้งานหลากหลาย การแลกกระดาษ สามารถกดจากแถบเมนูด้านข้าง หรือคลิกปุ่มลัดแลกกระดาษ ตามที่แสดงในรูปภาพ.
 
 <figure>
-    <img src="https://drive.google.com/uc?export=view&id=1dK3UVJdLmqNP_je_Nu1qnzGna0DaCd8v" alt="" style="width: 70%; max-width: 300px;">
-    <figcaption></figcaption>
+    <img src="https://drive.google.com/uc?export=view&id=1k5YZKMSecQKcKK2MVvrm6udS3gqXfxcE" alt="" style="width: 70%; max-width: 300px;">
+    <figcaption>
+        <p>หน้าหลักของระบบ</p>
+    </figcaption>
 </figure>
 
 หลังจากเลือกเมนูการแลกกระดาษ ระบบจะเข้าสู่หน้าจอการทำงาน
