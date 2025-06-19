@@ -35,29 +35,59 @@
 * ประเภทการใช้งาน: เลือกประเภทการใช้งานรถยนต์
 * ประเภทรถยนต์: เลือกประเภทรถยนต์
 
-<figure><img src="https://drive.google.com/uc?export=view&#x26;id=1HjhrityG_bOa5GChuWJqggeSqYefpFMo" alt="" style="width: 70%; max-width: 300px;"> <figcaption></figcaption> </figure>
+<figure>
+    <img src="https://drive.google.com/uc?export=view&id=1uBaEvxItMvZPlLRC7n5yJOqGuAF56OWt" alt="" style="width: 70%; max-width: 300px;">
+    <figcaption>
+        <p>ระบุข้อมูลรถยนต์</p>
+    </figcaption>
+</figure>
 
 * ขนาดรถยนต์: เลือกรหัสรถยนต์
 
-<figure><img src="https://drive.google.com/uc?export=view&#x26;id=1ORibNE_FByQBnaA7zbhAk2oGHQSRqnzk" alt="" style="width: 70%; max-width: 300px;"> <figcaption></figcaption> </figure>
+<figure>
+    <img src="https://drive.google.com/uc?export=view&id=1_ZY4PguY7X2EhO3L6Rxmm_wWWYYxay2O" alt="" style="width: 70%; max-width: 300px;">
+    <figcaption>
+        <p>ระบุขนาดรถยนต์</p>
+    </figcaption>
+</figure>
 
 * ปีที่จดทะเบียน: เลือกปีที่จดทะเบียนให้ตรงกับเล่มรถ
 
-<figure><img src="https://drive.google.com/uc?export=view&#x26;id=1IiR0CtXJ9KfI6efRbhuq3Luawc0TZOu_" alt="" style="width: 70%; max-width: 300px;"> <figcaption></figcaption> </figure>
+<figure>
+    <img src="https://drive.google.com/uc?export=view&id=1VRJmVOz5cK-5M1tmKUaZTHR1dB31DX_q" alt="" style="width: 70%; max-width: 300px;">
+    <figcaption>
+        <p>ระบุปีที่จดทะเบียน</p>
+    </figcaption>
+</figure>
 
 * ยี่ห้อรถ: เลือกยี่ห้อรถยนต์ หรือ กรอกชื่อยี่ห้อรถยนต์ระบบจะแสดงรายชื่อตามที่กรอกค้นหา
 
-<figure><img src="https://drive.google.com/uc?export=view&#x26;id=1tMofKMPQNh_fXZRAnmnoSanIxscNShJi" alt="" style="width: 70%; max-width: 300px;"> <figcaption></figcaption> </figure>
+<figure>
+    <img src="https://drive.google.com/uc?export=view&id=1JgUbP2l-I3_sAX7pUB49hqKoX1ZTsOGG" alt="" style="width: 70%; max-width: 300px;">
+    <figcaption>
+        <p>ระบุยี่ห้อรถยนต์</p>
+    </figcaption>
+</figure>
 
 * รุ่นรถ : เลือกรุ่นรถยนต์ หรือ กรอกชื่อรุ่นรถยนต์ระบบจะแสดงรายชื่อตามที่กรอกค้นหาภายใต้ยี่ห้อที่เลือก
 
-<figure><img src="https://drive.google.com/uc?export=view&#x26;id=1k5StQ0_r66Tx9pCvJKAl9dlATw4D9wWq" alt="" style="width: 70%; max-width: 300px;"> <figcaption></figcaption> </figure>
+<figure>
+    <img src="https://drive.google.com/uc?export=view&id=1xevOfw5bJJ4k4pa6p1xCfabySWg-8Yt3" alt="" style="width: 70%; max-width: 300px;">
+    <figcaption>
+        <p>ระบุรุ่นรถยนต์</p>
+    </figcaption>
+</figure>
 
 * รุ่นย่อย / ขนาดเครื่องยนต์: เลือกรุ่นย่อยหรือกรอกชื่อรุ่นย่อย ระบบจะแสดงรายชื่อที่ตรงกับการค้นหาภายใต้รุ่นรถที่เลือก
 
-ขนาดเครื่องยนต์จะแสดงตามรุ่นย่อยที่เลือก โดยไม่ต้องกรอกข้อมูล หากไม่ทราบรุ่นย่อย สามารถเลือก "ไม่ทราบรุ่นย่อย" ได้.
+ขนาดเครื่องยนต์จะแสดงตามรุ่นย่อยที่เลือก โดยไม่ต้องกรอกข้อมูล หากไม่ทราบรุ่นย่อย สามารถเลือก "ไม่ทราบรุ่นย่อย" และกรอกขนาดเครื่องยนต์ที่แสดงบนเล่มรถยนต์ หรือกรอกตัวเลขใกล้เคียง
 
-<figure><img src="https://drive.google.com/uc?export=view&#x26;id=1BqWUAN_P8wgDITVZenJ_n_tPtVVY-ec6" alt="" style="width: 70%; max-width: 300px;"> <figcaption></figcaption> </figure>
+<figure>
+    <img src="https://drive.google.com/uc?export=view&id=1AmrFlrxnfY4_i_uNn0IZrtw-nzuk2AdZ" alt="" style="width: 70%; max-width: 300px;">
+    <figcaption>
+        <p>ระบุข้อมูลรุ่นย่อย</p>
+    </figcaption>
+</figure>
 
 #### เลือกวันคุ้มครอง
 
