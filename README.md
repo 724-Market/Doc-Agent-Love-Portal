@@ -24,6 +24,8 @@ layout:
 * [การแจ้งงาน พ.ร.บ.](features/compulsory.md)
 * [การแจ้งงาน พ.ร.บ. แบบตัดวงเงิน](features/compulsory-vic.md)
 * [ประวัติการแจ้งงาน](features/order-history.md)
+* [การยกเลิกงาน](features/order-cancel.md)
+* [งานต่ออายุ](features/order-renew.md)
 * [การแลกกระดาษ](features/papers.md)
 * [การเพิ่มผู้ช่วย](features/users.md)
 * [เงินมัดจำ](features/pledge.md)
