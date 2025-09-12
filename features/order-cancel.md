@@ -33,7 +33,7 @@ layout:
 
 ---
 
-ขั้นตอนการทำรายการ
+**ขั้นตอนการทำรายการ**
 
 ---
 
@@ -61,6 +61,12 @@ layout:
 
 * กดปุ่ม "ยกเลิก" : ด้านหลังปุ่มดาวน์โหลด  ระบบจะแสดงหน้าต่างให้แสดง ยืนยันการยกเลิก 
 
+<figure>
+    <img src="https://drive.google.com/uc?export=view&id=1kteQtRFKeM68b0pvxk6w7n0okyBiEZId" alt="" style="width: 50%; max-width: 300px;">
+    <figcaption>
+        <p>หน้าต่างยืนยันการยกเลิก เพื่อคีย์งานใหม่</p>
+    </figcaption>
+</figure>
 
 ***
 
