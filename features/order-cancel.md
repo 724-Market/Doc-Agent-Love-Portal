@@ -36,3 +36,27 @@ layout:
 ขั้นตอนการทำรายการ
 
 ---
+
+<figure>
+    <img src="https://drive.google.com/uc?export=view&id=1h2Vko4aTU8HzcSGyRI9GsSCYJJPKJKwI" alt="" style="width: 70%; max-width: 300px;">
+    <figcaption>
+        <p>หน้าประวัติการแจ้งงาน - กล่องสำเร็จ</p>
+    </figcaption>
+</figure>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
