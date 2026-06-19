@@ -24,6 +24,10 @@
 * [ข้อดีของ 724 Connext](connext/introduction.md)
 * [ขั้นตอนการเชื่อมต่อ](connext/howto.md)
 
+## Backoffice <a href="#backoffice" id="backoffice"></a>
+
+* [การอนุมัติรางวัล (Agent Love ชาเลนจ์)](backoffice/reward-approval.md)
+
 ## อื่นๆ <a href="#others" id="others"></a>
 
 * [คำถามที่พบบ่อย](others/faqs.md)
