@@ -18,6 +18,10 @@ layout:
 
 ---
 
+> 🎥 ดูวิดีโอสาธิตขั้นตอนการทำงานได้ที่: [Jam.dev Recording](https://jam.dev/c/7889287e-25a5-4655-9086-8f252e915efa)
+
+---
+
 ## 🔐 การเข้าสู่ระบบ
 
 เปลี่ยนไปใช้ URL ใหม่ [https://ag-office.724.co.th/](https://ag-office.724.co.th/) เข้าสู่ระบบได้ด้วย Account เดิม
