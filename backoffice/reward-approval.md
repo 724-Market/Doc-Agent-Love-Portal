@@ -24,7 +24,7 @@ layout:
 
 ## 🔐 การเข้าสู่ระบบ
 
-เปลี่ยนไปใช้ URL ใหม่ [https://ag-office.724.co.th/](https://ag-office.724.co.th/) เข้าสู่ระบบได้ด้วย Account เดิม
+เปลี่ยนไปใช้ URL ใหม่ [https://ag-office.724.co.th/](https://ag-office.724.co.th/redeem) เข้าสู่ระบบได้ด้วย Account เดิม
 
 ---
 
